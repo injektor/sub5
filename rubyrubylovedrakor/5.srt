@@ -1,0 +1,650 @@
+1
+00:00:00,000 --> 00:00:08,700
+<font color="yellow"><b><font color=#00FF00>Subtitle</font> <font color=#ff0080>Indonesia By</font> <font color=#ff8040>Inag2711</font><b></b></b></font>
+
+2
+00:00:10,980 --> 00:00:20,120
+<font color="yellow"><b><font color=#99FF00>Follow Me</font> <font color=#00FF00>@Inag2711</font> <font color=#80ffff>And Rate</font> <font face="Kristen ITC" color="#FF3399">GOOD</font></b></font></font>
+
+3
+00:00:21,300 --> 00:00:23,360
+<font color="yellow"><b><font color=#99FF00>RUBY</font> <font color=#0000ff>RUBY</font> <font color=#80ffff>LOVE</font></b></font>
+
+4
+00:00:23,960 --> 00:00:26,800
+<font color="yellow"><i><font color=#ff8080>Episode</font> <font face="Kristen ITC" color="#FF3399">Terakhir</font></i></font></font>
+
+5
+00:00:52,720 --> 00:00:53,600
+<font color="yellow">Hallo??</font>
+
+6
+00:00:54,800 --> 00:00:55,600
+<font color="yellow">Iya.</font>
+
+7
+00:00:57,720 --> 00:00:58,400
+<font color="yellow">Apa?</font>
+
+8
+00:00:58,840 --> 00:00:59,840
+<font color="yellow">Jam 10?</font>
+
+9
+00:01:00,740 --> 00:01:02,400
+<font color="yellow">Omo, kau belum dengar ta?</font>
+
+10
+00:01:02,500 --> 00:01:04,100
+<font color="yellow">Presentasinya dipercepat jadi jam 10.</font>
+
+11
+00:01:04,600 --> 00:01:05,280
+<font color="yellow">Benarkah?</font>
+
+12
+00:01:05,580 --> 00:01:07,600
+<font color="yellow">Ya, aku mengerti!</font>
+
+13
+00:01:08,380 --> 00:01:09,660
+<font color="yellow">Iya.Iya.Iya</font>
+
+14
+00:01:16,360 --> 00:01:18,500
+<font color="yellow">Hari penentuannya udah tiba.</font>
+
+15
+00:01:19,200 --> 00:01:20,800
+<font color="yellow">Aku mohon bantuanmu.</font>
+
+16
+00:01:47,380 --> 00:01:48,420
+<font color="yellow">Nona Ruby.</font>
+
+17
+00:01:48,580 --> 00:01:49,200
+<font color="yellow">Kenapa kau disini?</font>
+
+18
+00:01:49,500 --> 00:01:50,400
+<font color="yellow">Kenapa tidak ada orang?</font>
+
+19
+00:01:50,600 --> 00:01:51,600
+<font color="yellow">Presentasi-nya nggak jadi sekarang ta?</font>
+
+20
+00:01:53,400 --> 00:01:54,800
+<font color="yellow">Masih ntar jam 5.</font>
+
+21
+00:01:55,100 --> 00:01:55,700
+<font color="yellow">Nggak,kok.</font>
+
+22
+00:01:55,900 --> 00:01:57,400
+<font color="yellow">Tadi ada yang nelpon aku, katanya jam 10.</font>
+
+23
+00:01:58,400 --> 00:02:00,300
+<font color="yellow">Entah. Aku tidak tahu soal itu.</font>
+
+24
+00:02:05,400 --> 00:02:07,600
+<font color="yellow">Presentasi-nya nggak bisa sekarang saja ta?</font>
+
+25
+00:02:08,280 --> 00:02:09,500
+<font color="yellow">Ini benar-benar darurat.</font>
+
+26
+00:02:10,420 --> 00:02:12,420
+<font color="yellow">Kalau Jam 11? Atau jam 12?</font>
+
+27
+00:02:12,800 --> 00:02:13,300
+<font color="yellow">Entahlah.</font>
+
+28
+00:02:14,700 --> 00:02:15,740
+<font color="yellow">Itu kayaknya nggak mungkin.</font>
+
+29
+00:02:16,540 --> 00:02:18,200
+<font color="yellow">Karena belum ada persiapan.</font>
+
+30
+00:02:20,400 --> 00:02:21,400
+<font color="yellow">Gimana nih???!!</font>
+
+31
+00:02:33,500 --> 00:02:35,600
+<font color="yellow">Seperti dugaanku, Lee Ruby kau mantap banget!</font>
+
+32
+00:02:35,700 --> 00:02:36,860
+<font color="yellow">Apa kau sudah siap untuk presentasi nanti?</font>
+
+33
+00:02:40,220 --> 00:02:43,420
+<font color="yellow">Kalau kau tidak mampu, apa aku perlu menggantikanmu?</font>
+
+34
+00:02:44,400 --> 00:02:46,140
+<font color="yellow">Aku sudah menyiapkan semuanya.</font>
+
+35
+00:02:46,400 --> 00:02:47,340
+<font color="yellow">Hei, Yoo Biju!</font>
+
+36
+00:02:48,400 --> 00:02:50,360
+<font color="yellow">Apa mungkin ini juga ulahmu?</font>
+
+37
+00:02:51,280 --> 00:02:52,300
+<font color="yellow">Huh?</font>
+
+38
+00:02:58,400 --> 00:02:59,460
+<font color="yellow">Aku ngapain?</font>
+
+39
+00:03:01,340 --> 00:03:02,400
+<font color="yellow">Aku cuma...</font>
+
+40
+00:03:02,680 --> 00:03:06,300
+<font color="yellow">Aku memang tidak suka dengannya, tapi bukan aku pelakunya.</font>
+
+41
+00:03:06,500 --> 00:03:07,600
+<font color="yellow">Jangan menyangkal!</font>
+
+42
+00:03:08,520 --> 00:03:10,200
+<font color="yellow">Sejak awal aku udah tahu kau dalangnya!</font>
+
+43
+00:03:12,600 --> 00:03:15,300
+<font color="yellow">Orang ini, kau masih ingat'kan?</font>
+
+44
+00:03:23,280 --> 00:03:25,400
+<font color="yellow">Ini adalah peringatan terakhir dariku!</font>
+
+45
+00:03:26,400 --> 00:03:27,520
+<font color="yellow">Awas kau!</font>
+
+46
+00:03:27,740 --> 00:03:29,400
+<font color="yellow">Aku tidak paham apa maksud ucapanmu!</font>
+
+47
+00:03:32,480 --> 00:03:33,400
+<font color="yellow">Pokoknya,</font>
+
+48
+00:03:33,800 --> 00:03:34,580
+<font color="yellow">Semoga berhasil.</font>
+
+49
+00:03:34,580 --> 00:03:35,600
+<font color="yellow">Walau aku tidak yakin sih.</font>
+
+50
+00:03:51,400 --> 00:03:53,800
+<font color="yellow">Bagaimana bisa aku menyia-nyiakan kesempatan terakhirku?</font>
+
+51
+00:03:54,400 --> 00:03:55,500
+<font color="yellow">Sekarang tamat sudah.</font>
+
+52
+00:03:57,460 --> 00:03:58,460
+<font color="yellow">Aku mengacaukan semuanya!</font>
+
+53
+00:03:58,500 --> 00:03:59,300
+<font color="yellow">Tidak!</font>
+
+54
+00:03:59,460 --> 00:04:02,300
+<font color="yellow">Meski tanpa cincin-pun , kau pasti bisa!</font>
+
+55
+00:04:02,400 --> 00:04:03,400
+<font color="yellow">Serius.</font>
+
+56
+00:04:04,160 --> 00:04:05,420
+<font color="yellow">Selain itu,</font>
+
+57
+00:04:06,420 --> 00:04:07,800
+<font color="yellow">Aku rasa kau membutuhkan ini.</font>
+
+58
+00:04:08,700 --> 00:04:10,380
+<font color="yellow">Semua ini salahmu!</font>
+
+59
+00:04:11,500 --> 00:04:14,340
+<font color="yellow">Jika kau tidak memaksaku untuk melakukannya,</font>
+
+60
+00:04:14,400 --> 00:04:15,800
+<font color="yellow">aku tidak akan jadi begini!</font>
+
+61
+00:04:16,380 --> 00:04:17,400
+<font color="yellow">Lee Roo.</font>
+
+62
+00:04:17,460 --> 00:04:18,500
+<font color="yellow">Presentasi kau bilang?</font>
+
+63
+00:04:19,400 --> 00:04:20,400
+<font color="yellow">Berdiri didepan banyak orang saja...</font>
+
+64
+00:04:21,400 --> 00:04:22,500
+<font color="yellow">Membayangkannya saja aku tidak sanggup.</font>
+
+65
+00:04:23,400 --> 00:04:26,700
+<font color="yellow">Aku capek dengan semua ini. Seharusnya aku tidak perlu jadi Designer!</font>
+
+66
+00:04:26,800 --> 00:04:27,800
+<font color="yellow">Jaga mulutmu!</font>
+
+67
+00:04:28,300 --> 00:04:30,320
+<font color="yellow">Kalau bukan karena tekadmu,</font>
+
+68
+00:04:30,560 --> 00:04:32,500
+<font color="yellow">kesempatan ini tidak akan datang!</font>
+
+69
+00:04:33,500 --> 00:04:35,340
+<font color="yellow">Kau harus memanfaatkan kesempatan ini!</font>
+
+70
+00:04:36,240 --> 00:04:37,880
+<font color="yellow">Datanglah!</font>
+
+71
+00:04:38,540 --> 00:04:39,340
+<font color="yellow">Aku akan menunggumu!</font>
+
+72
+00:04:40,860 --> 00:52:45,000
+<font color="yellow">Bahkan tanpa cincin itu, Lee Ruby yang aku tahu.</font>
+
+73
+00:04:45,240 --> 00:04:46,400
+<font color="yellow">Aku mempercayainya!</font>
+
+74
+00:04:58,700 --> 00:05:02,240
+<font color="yellow">Bahkan tanpa cincin itu, Lee Ruby yang aku tahu. Aku mempercayainya.</font>
+
+75
+00:05:03,400 --> 00:05:04,500
+<font color="yellow">Nggak tahu ah!</font>
+
+76
+00:05:09,400 --> 00:05:11,540
+<font color="yellow">Duh, gimana nih? Ini mahal.</font>
+
+77
+00:05:11,540 --> 00:05:12,500
+<font color="yellow">Nggak rusak'kan?</font>
+
+78
+00:05:21,800 --> 00:05:22,300
+<font color="yellow">Apa ini?</font>
+
+79
+00:05:23,800 --> 00:05:24,400
+<font color="yellow">Video?</font>
+
+80
+00:05:44,500 --> 00:05:46,400
+<font color="yellow">Aigoo, berantakan sekali.</font>
+
+81
+00:05:59,860 --> 00:06:00,400
+<font color="yellow">Bibi.</font>
+
+82
+00:06:00,660 --> 00:06:02,660
+<font color="yellow">Bukankah Ruby kita hebat banget sekarang?</font>
+
+83
+00:06:02,720 --> 00:06:03,720
+<font color="yellow">Dia yang terbaik.</font>
+
+84
+00:06:05,320 --> 00:06:06,400
+<font color="yellow">Tapi, Ruby...</font>
+
+85
+00:06:06,600 --> 00:06:08,380
+<font color="yellow">Berfikir kalau dia tidak mampu melakukannya kan?</font>
+
+86
+00:06:09,400 --> 00:06:11,500
+<font color="yellow">Apanya yang tidak mampu? Dasar dia bodoh.</font>
+
+87
+00:06:12,300 --> 00:06:15,680
+<font color="yellow">Sebelum dia mencoba,dia tidak akan pernah tahu.</font>
+
+88
+00:06:16,500 --> 00:06:18,300
+<font color="yellow">Aku juga kaget saat itu.</font>
+
+89
+00:06:20,300 --> 00:06:21,400
+<font color="yellow">Selain itu,</font>
+
+90
+00:06:22,840 --> 00:06:25,400
+<font color="yellow">Aku tidak tahu apa ini pantas dikatakan,</font>
+
+91
+00:06:25,600 --> 00:06:30,780
+<font color="yellow">Tapi saat aku melihatnya sedang membuat batu permata, aku merasa senang.</font>
+
+92
+00:06:31,200 --> 00:06:34,620
+<font color="yellow">Suatu saat nanti, aku akan mengatakan itu padanya.</font>
+
+93
+00:06:35,700 --> 00:06:37,300
+<font color="yellow">Perasaanku terhadap Ruby,</font>
+
+94
+00:06:38,680 --> 00:06:40,680
+<font color="yellow">Terlalu besar.</font>
+
+95
+00:06:52,520 --> 00:06:54,500
+<font color="yellow">Ah, masih disini.</font>
+
+96
+00:06:55,500 --> 00:06:56,420
+<font color="yellow">Lee Ruby,</font>
+
+97
+00:06:56,880 --> 00:07:00,400
+<font color="yellow">Aku akan menunggu sampai kau menemukan ini.</font>
+
+98
+00:07:30,500 --> 00:07:35,500
+<font color="yellow"><i><font color=#99FF00>[ Seperti permata yang tidak bercahaya disaat gelap, kau akan tetap dengan caramu sendiri. ]</font></i></font>
+
+99
+00:07:48,640 --> 00:07:49,420
+<font color="yellow">Apa ini?</font>
+
+100
+00:07:50,500 --> 00:07:51,500
+<font color="yellow">Batu apa ya?</font>
+
+101
+00:07:54,300 --> 00:07:55,580
+<font color="yellow"><i>I Ruby U?</i></font>
+
+102
+00:08:27,400 --> 00:08:30,580
+<font color="yellow">Direktur! Ruby tidak akan datang. Apa aku harus siap-siap?</font>
+
+103
+00:08:37,500 --> 00:08:38,600
+<font color="yellow">Nona Ruby masih belum tiba?</font>
+
+104
+00:08:57,400 --> 00:08:59,600
+<font color="yellow"><i>Berlian melambangkan cinta sejati.</i></font>
+
+105
+00:09:00,400 --> 00:09:01,700
+<font color="yellow"><i>Oniks melambangkan kebahagiaan.</i></font>
+
+106
+00:09:02,400 --> 00:09:04,300
+<font color="yellow"><i>Batu akik melambangkan kesedihan.</i></font>
+
+107
+00:09:05,740 --> 00:09:09,400
+<font color="yellow">Semua batu permata memiliki arti yang berbeda.</font>
+
+108
+00:09:10,400 --> 00:09:11,400
+<font color="yellow">Karena itu aku...</font>
+
+109
+00:09:11,700 --> 00:09:19,340
+<font color="yellow">Memiliki ide untuk menciptakan perhiasan yang sesuai dengan keinginan dan harapan setiap orang.</font>
+
+110
+00:09:19,400 --> 00:09:20,500
+<font color="yellow">Selain itu,</font>
+
+111
+00:09:22,400 --> 00:09:26,300
+<font color="yellow">Ada seseorang memberiku batu sebagai hadiah, untuk menyatakan perasaannya.</font>
+
+112
+00:09:26,400 --> 00:09:28,200
+<font color="yellow">Dan hadiah itu,</font>
+
+113
+00:09:28,600 --> 00:09:32,400
+<font color="yellow">bisa menghilangkan semua rasa cemas yang aku rasakan.</font>
+
+114
+00:09:33,400 --> 00:09:36,600
+<font color="yellow">serta memberiku harapan saat aku terjatuh.</font>
+
+115
+00:09:38,720 --> 00:09:40,500
+<font color="yellow">Seperti janji yang tidak akan diingkari.</font>
+
+116
+00:09:42,500 --> 00:09:45,640
+<font color="yellow">Batu permata diciptakan dengan penuh keajaiban.</font>
+
+117
+00:09:46,400 --> 00:09:47,700
+<font color="yellow">Layaknya hadiah itu,</font>
+
+118
+00:09:49,480 --> 00:09:53,720
+<font color="yellow">Aku berharap setiap karyaku bisa memuaskan banyak orang.</font>
+
+119
+00:09:55,600 --> 00:09:57,500
+<font color="yellow">Itulah definisi dari,</font>
+
+120
+00:09:57,700 --> 00:09:59,700
+<font color="yellow">Konsep batu permata ini.</font>
+
+121
+00:10:09,700 --> 00:10:10,400
+<font color="yellow">Bagaimana?</font>
+
+122
+00:10:11,600 --> 00:10:12,800
+<font color="yellow">- Bagus.
+- Bagaimana menurut direktur?</font>
+
+123
+00:10:12,900 --> 00:10:15,400
+<font color="yellow">Sangat menyentuh.Saya menyukainya.</font>
+
+124
+00:10:38,560 --> 00:10:39,300
+<font color="yellow">Wondol!</font>
+
+125
+00:10:40,360 --> 00:10:41,600
+<font color="yellow">Kau sedang apa?</font>
+
+126
+00:10:43,460 --> 00:10:45,200
+<font color="yellow">Kau tidak mau memberiku ucapan selamat?</font>
+
+127
+00:10:46,240 --> 00:10:47,600
+<font color="yellow">Kau sangat bagus.</font>
+
+128
+00:10:48,420 --> 00:10:49,600
+<font color="yellow">Kau pasti sudah menemukannya!</font>
+
+129
+00:10:50,260 --> 00:10:51,360
+<font color="yellow">Menemukan apa?</font>
+
+130
+00:10:53,720 --> 00:10:54,460
+<font color="yellow">Ini?</font>
+
+131
+00:10:54,700 --> 00:10:55,700
+<font color="yellow">Bagaimana kau menemukannya?</font>
+
+132
+00:10:56,240 --> 00:10:57,700
+<font color="yellow">Aku pikir tidak mungkin ketemu.</font>
+
+133
+00:10:58,800 --> 00:10:59,480
+<font color="yellow">Tapi,</font>
+
+134
+00:11:00,600 --> 00:11:03,160
+<font color="yellow">Apa arti dari "I Ruby U"?</font>
+
+135
+00:11:10,580 --> 00:11:12,400
+<font color="yellow">Itu...</font>
+
+136
+00:11:12,500 --> 00:11:15,140
+<font color="yellow">Ada deh! Itu..</font>
+
+137
+00:11:16,440 --> 00:11:17,800
+<font color="yellow">Ruby itu...</font>
+
+138
+00:11:18,580 --> 00:11:19,700
+<font color="yellow">Namaku?</font>
+
+139
+00:11:22,640 --> 00:11:24,200
+<font color="yellow">Tapi apa maksudnya?</font>
+
+140
+00:11:25,400 --> 00:11:26,600
+<font color="yellow">Kau tahulah!</font>
+
+141
+00:11:26,860 --> 00:11:28,360
+<font color="yellow">Artinya, cint--</font>
+
+142
+00:11:30,900 --> 00:11:31,460
+<font color="yellow">Itu...</font>
+
+143
+00:11:35,800 --> 00:11:37,200
+<font color="yellow">Betul, aku suka padamu!</font>
+
+144
+00:11:38,440 --> 00:11:39,620
+<font color="yellow">Bukan!Aku cinta padamu!</font>
+
+145
+00:11:40,200 --> 00:11:41,900
+<font color="yellow">Aku cinta padamu, Lee Ruby!</font>
+
+146
+00:11:45,460 --> 00:11:46,400
+<font color="yellow">Kenapa kau tidak menjawabnya?</font>
+
+147
+00:11:51,900 --> 00:11:52,800
+<font color="yellow">Apa aku ditolak?</font>
+
+148
+00:12:04,600 --> 00:12:05,480
+<font color="yellow">Ini batu Ruby.</font>
+
+149
+00:12:06,040 --> 00:12:07,700
+<font color="yellow">Itu Lee Ruby.</font>
+
+150
+00:12:08,500 --> 00:12:09,780
+<font color="yellow">Milikmu.</font>
+
+151
+00:13:00,500 --> 00:13:02,400
+<font color="yellow"><font color=#ff8080>[~~ Satu Bulan Kemudian ~~]</font></font>
+
+152
+00:13:06,400 --> 00:13:08,600
+<font color="yellow">- Ah.. Keatas dikit lagi!
+- Sudah pas?</font>
+
+153
+00:13:10,480 --> 00:13:12,480
+<font color="yellow">Ini juga sudah bisa dibaca orang kan?</font>
+
+154
+00:13:12,800 --> 00:13:16,300
+<font color="yellow">Aku tahu!Tapi letaknya harus dipasang sempurna!</font>
+
+155
+00:13:16,400 --> 00:13:18,680
+<font color="yellow">Bisa geser sedikit lagi?</font>
+
+156
+00:13:18,800 --> 00:13:21,420
+<font color="yellow">Tentu saja. Ini untukmu.</font>
+
+157
+00:13:22,840 --> 00:13:27,400
+<font color="yellow">Yang benar saja kalian ini! Kalau sudah turun, aku hajar satu-satu!</font>
+
+158
+00:13:29,040 --> 00:13:31,380
+<font color="yellow">oMO, gimana nih!</font>
+
+159
+00:13:31,600 --> 00:13:33,560
+<font color="yellow">Kalian sungguh lebay!</font>
+
+160
+00:13:34,460 --> 00:13:35,760
+<font color="yellow">Bisa geser sekitar 1 cm lagi?</font>
+
+161
+00:13:36,733 --> 00:13:41,733
+<font color="yellow"><b><font color=#99FF00>[TA</font><font color=#0000ff>MA</font><font color=#80ffff>T]</font></b></font>
+
+162
+00:13:42,400 --> 00:14:26,980
+<font color="yellow"><b><font color=#ff8080>SUBTITLE</font> <font face="Kristen ITC" color="#FF3399">INDONESIA</font> <font color=#FF80C0>BY</font> <font color=#8080FFfaceeC>INAG</font> <font color=#64b4ff>2711</font></b></font></font>
+

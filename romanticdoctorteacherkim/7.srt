@@ -1,0 +1,3820 @@
+1
+00:00:08,225 --> 00:00:09,225
+<font color="yellow">(Episode 7)</font>
+
+2
+00:00:12,925 --> 00:00:14,625
+<font color="yellow">What is going on?</font>
+
+3
+00:00:42,555 --> 00:00:44,425
+<font color="yellow">I need you at Doldam Hospital.</font>
+
+4
+00:00:45,995 --> 00:00:48,155
+<font color="yellow">Do you want me to work there, President Do?</font>
+
+5
+00:00:48,555 --> 00:00:49,755
+<font color="yellow">Form a team of your followers...</font>
+
+6
+00:00:51,055 --> 00:00:52,425
+<font color="yellow">and go down there.</font>
+
+7
+00:00:53,125 --> 00:00:54,355
+<font color="yellow">After that,</font>
+
+8
+00:00:55,225 --> 00:00:56,625
+<font color="yellow">prevent Boo Yong Joo from operating on Chairman Shin.</font>
+
+9
+00:00:59,625 --> 00:01:00,695
+<font color="yellow">Hello.</font>
+
+10
+00:01:01,325 --> 00:01:02,325
+<font color="yellow">Staff in Doldam Hospital.</font>
+
+11
+00:01:03,225 --> 00:01:06,655
+<font color="yellow">We have been dispatched to Doldam Hospital as a of today.</font>
+
+12
+00:01:06,865 --> 00:01:08,495
+<font color="yellow">I'm the head of General Surgery, Song Hyun Cheol.</font>
+
+13
+00:01:09,255 --> 00:01:10,995
+<font color="yellow">I will appreciate your help and support.</font>
+
+14
+00:01:15,865 --> 00:01:16,895
+<font color="yellow">If you can,</font>
+
+15
+00:01:17,625 --> 00:01:19,555
+<font color="yellow">please keep Boo Yong Joo quiet.</font>
+
+16
+00:01:20,395 --> 00:01:22,695
+<font color="yellow">I want him out of my life once and for all.</font>
+
+17
+00:01:23,595 --> 00:01:24,625
+<font color="yellow">I will not let him...</font>
+
+18
+00:01:26,255 --> 00:01:27,925
+<font color="yellow">live a life of a surgeon.</font>
+
+19
+00:01:29,495 --> 00:01:30,555
+<font color="yellow">But how, President Do?</font>
+
+20
+00:01:32,395 --> 00:01:33,995
+<font color="yellow">That's what I need you for.</font>
+
+21
+00:01:35,625 --> 00:01:36,655
+<font color="yellow">You must...</font>
+
+22
+00:01:38,125 --> 00:01:39,155
+<font color="yellow">find a way.</font>
+
+23
+00:01:44,295 --> 00:01:45,595
+<font color="yellow">I'll try my best, President Do.</font>
+
+24
+00:02:07,765 --> 00:02:10,095
+<font color="yellow">How should I interpret this situation, President Do?</font>
+
+25
+00:02:10,425 --> 00:02:11,555
+<font color="yellow">I looked around the hospital...</font>
+
+26
+00:02:12,355 --> 00:02:14,625
+<font color="yellow">and noticed that you're short on staff.</font>
+
+27
+00:02:15,055 --> 00:02:16,555
+<font color="yellow">So I sent some of our staff to support you.</font>
+
+28
+00:02:16,595 --> 00:02:17,595
+<font color="yellow">Support me?</font>
+
+29
+00:02:19,295 --> 00:02:21,795
+<font color="yellow">- Is that all? - Why do you ask?</font>
+
+30
+00:02:22,895 --> 00:02:24,995
+<font color="yellow">Do you have any problem with my decision?</font>
+
+31
+00:02:27,125 --> 00:02:28,595
+<font color="yellow">Even if you have, don't dare to mention it.</font>
+
+32
+00:02:30,195 --> 00:02:31,795
+<font color="yellow">That should be the best for you.</font>
+
+33
+00:02:37,325 --> 00:02:38,795
+<font color="yellow">Times of unlimited competition.</font>
+
+34
+00:02:53,725 --> 00:02:55,155
+<font color="yellow">You either kill, or you die.</font>
+
+35
+00:02:55,525 --> 00:02:57,295
+<font color="yellow">It's a battle of survival.</font>
+
+36
+00:02:58,925 --> 00:02:59,955
+<font color="yellow">We are going to...</font>
+
+37
+00:03:00,655 --> 00:03:03,495
+<font color="yellow">Doldam Hospital for an innovation.</font>
+
+38
+00:03:04,225 --> 00:03:06,195
+<font color="yellow">Don't forget that the future of Doldam Hospital...</font>
+
+39
+00:03:06,825 --> 00:03:09,425
+<font color="yellow">lies on our shoulders.</font>
+
+40
+00:03:09,995 --> 00:03:11,055
+<font color="yellow">Okay.</font>
+
+41
+00:03:11,295 --> 00:03:12,725
+<font color="yellow">- We can do this! - We can do this.</font>
+
+42
+00:03:12,725 --> 00:03:14,125
+<font color="yellow">- We can do this. - Louder.</font>
+
+43
+00:03:14,725 --> 00:03:15,795
+<font color="yellow">We can do this!</font>
+
+44
+00:03:16,055 --> 00:03:17,125
+<font color="yellow">We can do this!</font>
+
+45
+00:03:29,255 --> 00:03:30,255
+<font color="yellow">The name's Ji Min Jung.</font>
+
+46
+00:03:30,725 --> 00:03:32,125
+<font color="yellow">I've worked at Geodae Hospital for 10 years.</font>
+
+47
+00:03:32,725 --> 00:03:34,325
+<font color="yellow">I was the head nurse there.</font>
+
+48
+00:03:34,425 --> 00:03:35,595
+<font color="yellow">I'm Oh Myung Sim.</font>
+
+49
+00:03:35,955 --> 00:03:37,125
+<font color="yellow">I've worked here for 18 years.</font>
+
+50
+00:03:37,725 --> 00:03:39,325
+<font color="yellow">I'm the head nurse here.</font>
+
+51
+00:03:39,855 --> 00:03:42,725
+<font color="yellow">I'll be in charge of distributing workloads.</font>
+
+52
+00:03:44,325 --> 00:03:45,425
+<font color="yellow">You don't have a problem with that, do you?</font>
+
+53
+00:03:46,195 --> 00:03:49,395
+<font color="yellow">We are the face of Geodae Hospital.</font>
+
+54
+00:03:49,595 --> 00:03:50,655
+<font color="yellow">We must never...</font>
+
+55
+00:03:51,455 --> 00:03:52,855
+<font color="yellow">let them have the upper hand...</font>
+
+56
+00:03:53,525 --> 00:03:54,695
+<font color="yellow">in taking the initiative.</font>
+
+57
+00:03:55,655 --> 00:03:56,725
+<font color="yellow">No.</font>
+
+58
+00:03:57,255 --> 00:03:59,225
+<font color="yellow">I will be the one...</font>
+
+59
+00:03:59,825 --> 00:04:01,055
+<font color="yellow">distributing the workloads to my nurses.</font>
+
+60
+00:04:01,295 --> 00:04:02,995
+<font color="yellow">It's only reasonable.</font>
+
+61
+00:04:03,425 --> 00:04:04,825
+<font color="yellow">I know much more about them...</font>
+
+62
+00:04:05,655 --> 00:04:07,395
+<font color="yellow">than you do.</font>
+
+63
+00:04:08,125 --> 00:04:09,125
+<font color="yellow">You don't...</font>
+
+64
+00:04:10,525 --> 00:04:11,525
+<font color="yellow">have a problem with that, do you?</font>
+
+65
+00:04:12,055 --> 00:04:15,625
+<font color="yellow">They take pride in beating their opponents.</font>
+
+66
+00:04:16,255 --> 00:04:18,495
+<font color="yellow">And the world encourages them to do so.</font>
+
+67
+00:04:19,755 --> 00:04:20,825
+<font color="yellow">Prove yourself.</font>
+
+68
+00:04:21,955 --> 00:04:24,595
+<font color="yellow">You always came second to Dong Joo...</font>
+
+69
+00:04:26,295 --> 00:04:27,895
+<font color="yellow">both at school and at the hospital.</font>
+
+70
+00:04:32,395 --> 00:04:33,655
+<font color="yellow">For once.</font>
+
+71
+00:04:34,955 --> 00:04:36,295
+<font color="yellow">Go and win against Dong Joo just once.</font>
+
+72
+00:04:37,525 --> 00:04:38,525
+<font color="yellow">Father, I...</font>
+
+73
+00:04:42,065 --> 00:04:43,795
+<font color="yellow">I don't want a loser son.</font>
+
+74
+00:04:45,755 --> 00:04:46,755
+<font color="yellow">Do you understand?</font>
+
+75
+00:04:48,025 --> 00:04:51,655
+<font color="yellow">If you don't beat your opponents, you're looked down upon.</font>
+
+76
+00:04:59,095 --> 00:05:01,625
+<font color="yellow">The fear of becoming a loser...</font>
+
+77
+00:05:02,155 --> 00:05:06,425
+<font color="yellow">drive people into the world of competition.</font>
+
+78
+00:05:06,825 --> 00:05:08,795
+<font color="yellow">Brace yourself.</font>
+
+79
+00:05:10,525 --> 00:05:11,725
+<font color="yellow">Dr. Boo Yong Joo.</font>
+
+80
+00:05:16,025 --> 00:05:18,755
+<font color="yellow">(To Dr. Master Kim.)</font>
+
+81
+00:05:24,325 --> 00:05:25,725
+<font color="yellow">Try me.</font>
+
+82
+00:05:35,825 --> 00:05:39,955
+<font color="yellow">(Chapter 7, Unstable Factor)</font>
+
+83
+00:05:41,655 --> 00:05:42,695
+<font color="yellow">Do you really not know?</font>
+
+84
+00:05:43,155 --> 00:05:45,855
+<font color="yellow">- Are you sure? - I really don't.</font>
+
+85
+00:05:46,095 --> 00:05:48,955
+<font color="yellow">I didn't even have time to pack because of the short notice.</font>
+
+86
+00:05:49,255 --> 00:05:52,355
+<font color="yellow">Thanks to that, my wife is very upset with me.</font>
+
+87
+00:05:52,555 --> 00:05:54,525
+<font color="yellow">My kids were crying all night.</font>
+
+88
+00:05:54,795 --> 00:05:57,125
+<font color="yellow">Even my mother-in-law paid us a visit and...</font>
+
+89
+00:05:57,125 --> 00:05:58,995
+<font color="yellow">But you're not making any sense.</font>
+
+90
+00:05:59,325 --> 00:06:01,225
+<font color="yellow">You all burst into here...</font>
+
+91
+00:06:01,225 --> 00:06:02,695
+<font color="yellow">and yet, you say you don't know the reason for it.</font>
+
+92
+00:06:02,695 --> 00:06:04,125
+<font color="yellow">That's exactly my point.</font>
+
+93
+00:06:04,395 --> 00:06:06,595
+<font color="yellow">How can they reassign so many people like this?</font>
+
+94
+00:06:06,625 --> 00:06:09,195
+<font color="yellow">Hey. It's not like the hospital will take responsibility...</font>
+
+95
+00:06:09,495 --> 00:06:11,295
+<font color="yellow">if I get divorced.</font>
+
+96
+00:06:15,455 --> 00:06:17,125
+<font color="yellow">Hello, In Beom.</font>
+
+97
+00:06:22,155 --> 00:06:23,255
+<font color="yellow">Which one is mine?</font>
+
+98
+00:06:23,725 --> 00:06:25,595
+<font color="yellow">Do you want to use this one?</font>
+
+99
+00:06:25,795 --> 00:06:27,425
+<font color="yellow">I think this one is the best one here.</font>
+
+100
+00:06:32,595 --> 00:06:33,725
+<font color="yellow">What is going on?</font>
+
+101
+00:06:34,925 --> 00:06:37,055
+<font color="yellow">Why are you here?</font>
+
+102
+00:06:38,025 --> 00:06:40,955
+<font color="yellow">Is that because of the surgery? Is that why?</font>
+
+103
+00:06:44,595 --> 00:06:45,595
+<font color="yellow">Excuse me.</font>
+
+104
+00:06:46,355 --> 00:06:49,225
+<font color="yellow">Can you please stop talking to me as if you know me so well?</font>
+
+105
+00:06:49,755 --> 00:06:50,755
+<font color="yellow">Well...</font>
+
+106
+00:06:51,495 --> 00:06:53,555
+<font color="yellow">I was just curious.</font>
+
+107
+00:06:53,555 --> 00:06:56,855
+<font color="yellow">I don't want you to curious about me. It makes me uncomfortable.</font>
+
+108
+00:06:56,855 --> 00:06:57,895
+<font color="yellow">Hey.</font>
+
+109
+00:06:59,255 --> 00:07:00,995
+<font color="yellow">Why are you being rude?</font>
+
+110
+00:07:01,425 --> 00:07:03,525
+<font color="yellow">I'm sorry if I made you uncomfortable.</font>
+
+111
+00:07:07,125 --> 00:07:10,055
+<font color="yellow">In Beom, wait. Are you upset?</font>
+
+112
+00:07:19,655 --> 00:07:20,655
+<font color="yellow">What was that?</font>
+
+113
+00:07:20,955 --> 00:07:23,095
+<font color="yellow">Your junior was rude to you.</font>
+
+114
+00:07:23,425 --> 00:07:25,555
+<font color="yellow">- Aren't you going to do something? - You think?</font>
+
+115
+00:07:26,195 --> 00:07:27,425
+<font color="yellow">Was he that rude?</font>
+
+116
+00:07:28,895 --> 00:07:29,895
+<font color="yellow">Maybe.</font>
+
+117
+00:07:33,155 --> 00:07:34,695
+<font color="yellow">What is going on between you two?</font>
+
+118
+00:07:35,195 --> 00:07:36,995
+<font color="yellow">Aren't you going to tell me?</font>
+
+119
+00:07:37,195 --> 00:07:39,295
+<font color="yellow">Things are just like you and me.</font>
+
+120
+00:07:39,625 --> 00:07:41,895
+<font color="yellow">He is my junior and you are my junior.</font>
+
+121
+00:07:41,895 --> 00:07:44,795
+<font color="yellow">How could you even compare me to that jerk?</font>
+
+122
+00:07:44,795 --> 00:07:47,095
+<font color="yellow">There is something special between you and me.</font>
+
+123
+00:07:48,425 --> 00:07:49,725
+<font color="yellow">Is there anything special?</font>
+
+124
+00:07:50,425 --> 00:07:51,555
+<font color="yellow">What is that?</font>
+
+125
+00:07:53,255 --> 00:07:54,295
+<font color="yellow">We have...</font>
+
+126
+00:07:55,925 --> 00:07:57,055
+<font color="yellow">a special bond.</font>
+
+127
+00:08:00,425 --> 00:08:01,625
+<font color="yellow">A special bond?</font>
+
+128
+00:08:03,255 --> 00:08:04,725
+<font color="yellow">Don't you think so?</font>
+
+129
+00:08:11,125 --> 00:08:12,195
+<font color="yellow">Why?</font>
+
+130
+00:08:13,655 --> 00:08:14,795
+<font color="yellow">What?</font>
+
+131
+00:08:15,725 --> 00:08:16,755
+<font color="yellow">Nothing.</font>
+
+132
+00:08:17,525 --> 00:08:18,725
+<font color="yellow">You are adorable.</font>
+
+133
+00:08:22,955 --> 00:08:25,355
+<font color="yellow">You can't say that to a grown man.</font>
+
+134
+00:08:25,695 --> 00:08:27,425
+<font color="yellow">I'm not a child.</font>
+
+135
+00:08:27,425 --> 00:08:29,525
+<font color="yellow">You are a child. Didn't you know that?</font>
+
+136
+00:08:30,325 --> 00:08:31,825
+<font color="yellow">- Am I? - Yes.</font>
+
+137
+00:08:32,595 --> 00:08:34,595
+<font color="yellow">You just act like a teenager.</font>
+
+138
+00:08:35,165 --> 00:08:36,325
+<font color="yellow">Did you not really know that?</font>
+
+139
+00:08:39,165 --> 00:08:40,625
+<font color="yellow">- Seo Jung. - Let's get back to work.</font>
+
+140
+00:09:08,355 --> 00:09:09,495
+<font color="yellow">You know what?</font>
+
+141
+00:09:13,225 --> 00:09:15,925
+<font color="yellow">I'm not sure why you feel uncomfortable around me.</font>
+
+142
+00:09:17,225 --> 00:09:20,295
+<font color="yellow">But now that you are here, I just want to get along with you.</font>
+
+143
+00:09:21,165 --> 00:09:24,925
+<font color="yellow">If you have any questions, you are always welcome to ask me.</font>
+
+144
+00:09:26,955 --> 00:09:28,665
+<font color="yellow">And I know some famous restaurants...</font>
+
+145
+00:09:31,595 --> 00:09:33,695
+<font color="yellow">around here.</font>
+
+146
+00:09:36,955 --> 00:09:38,695
+<font color="yellow">Never mind.</font>
+
+147
+00:09:56,495 --> 00:09:58,225
+<font color="yellow">How old is the file cabinet?</font>
+
+148
+00:09:59,755 --> 00:10:01,855
+<font color="yellow">Vintage furniture is popular these days.</font>
+
+149
+00:10:05,425 --> 00:10:06,495
+<font color="yellow">I'm sorry.</font>
+
+150
+00:10:07,025 --> 00:10:09,165
+<font color="yellow">We are short of money.</font>
+
+151
+00:10:09,295 --> 00:10:11,995
+<font color="yellow">I will buy you a new one if you want.</font>
+
+152
+00:10:12,165 --> 00:10:15,095
+<font color="yellow">That's okay. I won't be here that long.</font>
+
+153
+00:10:15,595 --> 00:10:17,325
+<font color="yellow">- Pardon? - By the way.</font>
+
+154
+00:10:18,995 --> 00:10:20,095
+<font color="yellow">This is for you.</font>
+
+155
+00:10:23,925 --> 00:10:26,825
+<font color="yellow">Congratulations on your promotion, Manager Jang.</font>
+
+156
+00:10:27,025 --> 00:10:29,165
+<font color="yellow">Manager Jang?</font>
+
+157
+00:10:32,055 --> 00:10:33,425
+<font color="yellow">(Letter of Personnel Appointments)</font>
+
+158
+00:10:33,665 --> 00:10:37,195
+<font color="yellow">You were asked to perform an important role as a manager...</font>
+
+159
+00:10:37,395 --> 00:10:39,395
+<font color="yellow">for Doldam Hospital by President Do.</font>
+
+160
+00:10:40,095 --> 00:10:41,165
+<font color="yellow">Let's give it our best shot.</font>
+
+161
+00:10:42,425 --> 00:10:43,895
+<font color="yellow">I will make sure to do my best.</font>
+
+162
+00:10:44,165 --> 00:10:47,095
+<font color="yellow">I'm ready to put my life on the line for the future of Doldam Hospital.</font>
+
+163
+00:10:47,925 --> 00:10:50,125
+<font color="yellow">- Speaking of which, - Yes, sir.</font>
+
+164
+00:10:50,295 --> 00:10:53,425
+<font color="yellow">I'd like to know more about Doldam Hospital in detail.</font>
+
+165
+00:10:53,595 --> 00:10:56,825
+<font color="yellow">- Pardon? - Like some inside stories...</font>
+
+166
+00:10:57,095 --> 00:10:59,425
+<font color="yellow">or hidden bottleneck problems.</font>
+
+167
+00:10:59,655 --> 00:11:00,655
+<font color="yellow">Also,</font>
+
+168
+00:11:00,925 --> 00:11:02,255
+<font color="yellow">it seems...</font>
+
+169
+00:11:02,555 --> 00:11:05,125
+<font color="yellow">Master Kim is a pivotal figure in this hospital.</font>
+
+170
+00:11:06,155 --> 00:11:09,325
+<font color="yellow">Is there any unstable factors of him?</font>
+
+171
+00:11:10,625 --> 00:11:11,725
+<font color="yellow">Unstable factors?</font>
+
+172
+00:11:14,595 --> 00:11:16,695
+<font color="yellow">Me? Are you talking to me?</font>
+
+173
+00:11:16,895 --> 00:11:19,155
+<font color="yellow">Yes, you.</font>
+
+174
+00:11:19,625 --> 00:11:23,695
+<font color="yellow">What is your position in this hospital?</font>
+
+175
+00:11:24,695 --> 00:11:26,925
+<font color="yellow">Well, I am...</font>
+
+176
+00:11:27,555 --> 00:11:29,155
+<font color="yellow">- Orderly. - Orderly.</font>
+
+177
+00:11:29,155 --> 00:11:30,525
+<font color="yellow">You are an orderly.</font>
+
+178
+00:11:33,295 --> 00:11:35,125
+<font color="yellow">on the board for emergency medicine.</font>
+
+179
+00:11:35,325 --> 00:11:36,795
+<font color="yellow">Actually, on the double board for cardiothoracic surgery.</font>
+
+180
+00:11:41,225 --> 00:11:43,395
+<font color="yellow">Maybe you are a hidden medical expert in this hospital.</font>
+
+181
+00:11:45,155 --> 00:11:48,325
+<font color="yellow">No, I wouldn't say that. I just try to work hard...</font>
+
+182
+00:11:48,325 --> 00:11:49,395
+<font color="yellow">Okay, then.</font>
+
+183
+00:11:49,655 --> 00:11:52,255
+<font color="yellow">I will consider that for further tasks.</font>
+
+184
+00:11:54,155 --> 00:11:55,925
+<font color="yellow">It doesn't matter what it is.</font>
+
+185
+00:11:56,325 --> 00:11:59,195
+<font color="yellow">If you have anything that can finish Master Kim,</font>
+
+186
+00:12:00,195 --> 00:12:03,195
+<font color="yellow">I want you to share it with me.</font>
+
+187
+00:12:04,425 --> 00:12:06,525
+<font color="yellow">Finish Master Kim with a single blow?</font>
+
+188
+00:12:06,595 --> 00:12:08,195
+<font color="yellow">If things go well with that,</font>
+
+189
+00:12:08,725 --> 00:12:11,555
+<font color="yellow">I will recommend you for a position at Geodae Hospital.</font>
+
+190
+00:12:12,855 --> 00:12:14,355
+<font color="yellow">Just think about it.</font>
+
+191
+00:12:14,925 --> 00:12:16,555
+<font color="yellow">We still have plenty of time.</font>
+
+192
+00:12:21,795 --> 00:12:25,055
+<font color="yellow">Are you not going to do anything with them?</font>
+
+193
+00:12:25,195 --> 00:12:26,825
+<font color="yellow">Just let it go.</font>
+
+194
+00:12:27,595 --> 00:12:29,425
+<font color="yellow">It is so obvious...</font>
+
+195
+00:12:29,425 --> 00:12:31,355
+<font color="yellow">why they came all the way here.</font>
+
+196
+00:12:31,525 --> 00:12:34,525
+<font color="yellow">But what can we do? They say they came to support us.</font>
+
+197
+00:12:36,025 --> 00:12:38,125
+<font color="yellow">Are you going to let them stab you in the back again?</font>
+
+198
+00:12:38,495 --> 00:12:40,525
+<font color="yellow">You are not alone this time.</font>
+
+199
+00:12:40,655 --> 00:12:42,595
+<font color="yellow">The whole staff of Doldam Hospital is at stake.</font>
+
+200
+00:12:42,595 --> 00:12:46,125
+<font color="yellow">I know that. You just startled me.</font>
+
+201
+00:12:47,425 --> 00:12:49,655
+<font color="yellow">Are you sure you know that?</font>
+
+202
+00:12:50,625 --> 00:12:54,325
+<font color="yellow">I'm sure I know that. So please just forget about it.</font>
+
+203
+00:12:56,425 --> 00:12:59,795
+<font color="yellow">Do you know that there will be no hospital you can go...</font>
+
+204
+00:13:03,095 --> 00:13:04,355
+<font color="yellow">other than here?</font>
+
+205
+00:13:18,995 --> 00:13:20,225
+<font color="yellow">Where are you taking that device?</font>
+
+206
+00:13:20,225 --> 00:13:22,955
+<font color="yellow">Now that we have a new one, I'm taking it to the storage.</font>
+
+207
+00:13:23,995 --> 00:13:25,425
+<font color="yellow">Who is she, by the way?</font>
+
+208
+00:13:25,425 --> 00:13:27,955
+<font color="yellow">She will be working here for a while.</font>
+
+209
+00:13:27,955 --> 00:13:29,795
+<font color="yellow">Her name is Woo Yeon Hwa.</font>
+
+210
+00:13:29,955 --> 00:13:31,155
+<font color="yellow">Hello.</font>
+
+211
+00:13:31,425 --> 00:13:33,955
+<font color="yellow">Hello, it's nice to meet you. I'm Yoon Seo Jung.</font>
+
+212
+00:13:34,555 --> 00:13:35,895
+<font color="yellow">Where is the new device?</font>
+
+213
+00:13:35,895 --> 00:13:38,425
+<font color="yellow">- It's in the hybrid room. - Okay.</font>
+
+214
+00:13:48,125 --> 00:13:50,995
+<font color="yellow">She is my second favorite person at the hospital after Ms. Oh.</font>
+
+215
+00:13:51,955 --> 00:13:53,095
+<font color="yellow">I see.</font>
+
+216
+00:13:54,855 --> 00:13:58,325
+<font color="yellow">Look at the ultrasound device.</font>
+
+217
+00:13:59,595 --> 00:14:02,025
+<font color="yellow">Is this hospital beyond the space and time?</font>
+
+218
+00:14:02,125 --> 00:14:03,355
+<font color="yellow">It's not the Stone Age now.</font>
+
+219
+00:14:03,355 --> 00:14:05,595
+<font color="yellow">I just saw the old device earlier today.</font>
+
+220
+00:14:05,595 --> 00:14:07,625
+<font color="yellow">- This is so cool. - Is it a relic of the past or what?</font>
+
+221
+00:14:07,625 --> 00:14:10,095
+<font color="yellow">Chest portable device? Are you here, too?</font>
+
+222
+00:14:10,225 --> 00:14:14,055
+<font color="yellow">It's so nice to see you again.</font>
+
+223
+00:14:14,425 --> 00:14:15,595
+<font color="yellow">I'm so happy.</font>
+
+224
+00:14:15,595 --> 00:14:18,695
+<font color="yellow">It is a miracle that you could actually save a life in here.</font>
+
+225
+00:14:20,425 --> 00:14:21,495
+<font color="yellow">What is that?</font>
+
+226
+00:14:21,495 --> 00:14:22,995
+<font color="yellow">It's an external cooling device.</font>
+
+227
+00:14:23,495 --> 00:14:26,225
+<font color="yellow">Therapeutic hypothermia is popular these days.</font>
+
+228
+00:14:26,755 --> 00:14:30,425
+<font color="yellow">It became famous after they used it for a president of a conglomerate.</font>
+
+229
+00:14:31,355 --> 00:14:33,925
+<font color="yellow">Hello, you are new. It's nice to meet you.</font>
+
+230
+00:14:34,295 --> 00:14:36,295
+<font color="yellow">Let me ask you a question.</font>
+
+231
+00:14:36,495 --> 00:14:39,195
+<font color="yellow">Why have you been stuck in this hospital for the past five years?</font>
+
+232
+00:14:39,195 --> 00:14:40,695
+<font color="yellow">Beautiful mountains, clean water, and fresh air.</font>
+
+233
+00:14:40,695 --> 00:14:43,955
+<font color="yellow">- Hey. - And Master Kim.</font>
+
+234
+00:14:44,295 --> 00:14:46,525
+<font color="yellow">Have you heard of the name? He is a legendary surgeon.</font>
+
+235
+00:14:46,525 --> 00:14:48,225
+<font color="yellow">He was once a legendary surgeon.</font>
+
+236
+00:14:48,325 --> 00:14:50,025
+<font color="yellow">He is still a legendary surgeon.</font>
+
+237
+00:14:50,955 --> 00:14:54,025
+<font color="yellow">I know things will get tough, but once you get through it all,</font>
+
+238
+00:14:54,225 --> 00:14:56,695
+<font color="yellow">your life will be changed.</font>
+
+239
+00:14:56,695 --> 00:14:59,095
+<font color="yellow">No, I don't want a change.</font>
+
+240
+00:14:59,195 --> 00:15:00,395
+<font color="yellow">Me being here...</font>
+
+241
+00:15:00,395 --> 00:15:02,925
+<font color="yellow">is the worst change that has ever happen to me in my life.</font>
+
+242
+00:15:02,925 --> 00:15:06,395
+<font color="yellow">The whole thing is a complete mess. I don't want to go through anything.</font>
+
+243
+00:15:07,755 --> 00:15:08,995
+<font color="yellow">Where do you want to put the ECMO?</font>
+
+244
+00:15:10,055 --> 00:15:11,095
+<font color="yellow">ECMO?</font>
+
+245
+00:15:11,195 --> 00:15:14,095
+<font color="yellow">Do we have a new ECMO? I can't believe this.</font>
+
+246
+00:15:16,655 --> 00:15:17,755
+<font color="yellow">It's so pretty.</font>
+
+247
+00:15:19,025 --> 00:15:20,295
+<font color="yellow">Look at that.</font>
+
+248
+00:15:20,795 --> 00:15:21,795
+<font color="yellow">She's dancing.</font>
+
+249
+00:15:21,795 --> 00:15:23,495
+<font color="yellow">- I feel like crying. - Please put it here.</font>
+
+250
+00:15:31,255 --> 00:15:33,025
+<font color="yellow">This is so good.</font>
+
+251
+00:15:33,895 --> 00:15:35,695
+<font color="yellow">- Are you happy? - Aren't you happy?</font>
+
+252
+00:15:37,525 --> 00:15:39,325
+<font color="yellow">Where should I put this?</font>
+
+253
+00:15:47,325 --> 00:15:48,695
+<font color="yellow">Hello? This is Master Kim speaking.</font>
+
+254
+00:15:50,155 --> 00:15:51,225
+<font color="yellow">Did you...</font>
+
+255
+00:15:51,995 --> 00:15:54,295
+<font color="yellow">receive the devices?</font>
+
+256
+00:15:55,825 --> 00:15:58,195
+<font color="yellow">Yes, I received them all.</font>
+
+257
+00:15:58,355 --> 00:16:00,525
+<font color="yellow">My work is done here.</font>
+
+258
+00:16:01,025 --> 00:16:03,255
+<font color="yellow">If you try to mess with me again,</font>
+
+259
+00:16:04,925 --> 00:16:06,555
+<font color="yellow">I won't let you get away with it.</font>
+
+260
+00:16:08,155 --> 00:16:09,195
+<font color="yellow">So,</font>
+
+261
+00:16:09,755 --> 00:16:11,795
+<font color="yellow">when will you schedule the surgery?</font>
+
+262
+00:16:11,795 --> 00:16:15,255
+<font color="yellow">I will give you a call as soon as we are ready.</font>
+
+263
+00:16:15,595 --> 00:16:17,355
+<font color="yellow">Just make it quick.</font>
+
+264
+00:16:19,195 --> 00:16:20,395
+<font color="yellow">Give me a call.</font>
+
+265
+00:16:23,995 --> 00:16:25,755
+<font color="yellow">He's such a jerk.</font>
+
+266
+00:16:27,595 --> 00:16:30,355
+<font color="yellow">He's never scared of me.</font>
+
+267
+00:16:30,695 --> 00:16:32,295
+<font color="yellow">That's why you like him.</font>
+
+268
+00:16:34,955 --> 00:16:36,095
+<font color="yellow">This is jujube tea.</font>
+
+269
+00:16:37,955 --> 00:16:39,125
+<font color="yellow">Jujube tea?</font>
+
+270
+00:16:48,025 --> 00:16:49,325
+<font color="yellow">He killed someone.</font>
+
+271
+00:16:50,095 --> 00:16:52,395
+<font color="yellow">And it was a student of his.</font>
+
+272
+00:16:56,695 --> 00:16:57,725
+<font color="yellow">In a word,</font>
+
+273
+00:16:58,295 --> 00:16:59,895
+<font color="yellow">he's a psychopath.</font>
+
+274
+00:17:02,625 --> 00:17:04,195
+<font color="yellow">I'm more used to using a knife.</font>
+
+275
+00:17:04,425 --> 00:17:06,055
+<font color="yellow">Are you really a doctor?</font>
+
+276
+00:17:09,995 --> 00:17:11,655
+<font color="yellow">How many patients have you killed?</font>
+
+277
+00:17:46,495 --> 00:17:50,755
+<font color="yellow">(On Your Way)</font>
+
+278
+00:17:56,925 --> 00:17:58,095
+<font color="yellow">Hello, this is Doldam Hospital.</font>
+
+279
+00:17:59,325 --> 00:18:01,255
+<font color="yellow">Yes. Yes, okay.</font>
+
+280
+00:18:01,725 --> 00:18:03,425
+<font color="yellow">We need to perform a CPR on a patient in three minutes.</font>
+
+281
+00:18:04,055 --> 00:18:05,125
+<font color="yellow">Master Kim.</font>
+
+282
+00:18:05,895 --> 00:18:06,955
+<font color="yellow">Master Kim.</font>
+
+283
+00:18:09,095 --> 00:18:10,795
+<font color="yellow">- What happened? - It's a stab wound.</font>
+
+284
+00:18:11,055 --> 00:18:13,365
+<font color="yellow">He was lying in front of my restaurant.</font>
+
+285
+00:18:17,225 --> 00:18:18,695
+<font color="yellow">Do Il, are you okay?</font>
+
+286
+00:18:18,695 --> 00:18:20,495
+<font color="yellow">This is his blood. I'm fine.</font>
+
+287
+00:18:21,655 --> 00:18:23,865
+<font color="yellow">- Dr. Yoon, scissors. - Okay.</font>
+
+288
+00:18:32,495 --> 00:18:34,995
+<font color="yellow">We should call the police first.</font>
+
+289
+00:18:36,525 --> 00:18:38,955
+<font color="yellow">- Vital signs? - It's 100 over 70 and 130 beats.</font>
+
+290
+00:18:38,955 --> 00:18:40,795
+<font color="yellow">Set up IV lines and execute a full drop.</font>
+
+291
+00:18:44,525 --> 00:18:47,755
+<font color="yellow">These three wounds on his right side aren't too deep.</font>
+
+292
+00:18:48,095 --> 00:18:49,725
+<font color="yellow">But these two on his left are punctured.</font>
+
+293
+00:18:50,025 --> 00:18:51,895
+<font color="yellow">Check for hemoperitoneum with a sonogram.</font>
+
+294
+00:18:55,055 --> 00:18:56,325
+<font color="yellow">This is our new equipment.</font>
+
+295
+00:18:57,625 --> 00:18:59,555
+<font color="yellow">Doctor, his saturation is at 88 percent.</font>
+
+296
+00:18:59,555 --> 00:19:01,295
+<font color="yellow">Hey, Dr. Geodae. Perform an intubation.</font>
+
+297
+00:19:01,695 --> 00:19:02,695
+<font color="yellow">Me?</font>
+
+298
+00:19:04,795 --> 00:19:05,825
+<font color="yellow">Okay.</font>
+
+299
+00:19:15,795 --> 00:19:16,795
+<font color="yellow">You're too slow!</font>
+
+300
+00:19:17,195 --> 00:19:18,365
+<font color="yellow">Yes, Doctor.</font>
+
+301
+00:19:26,325 --> 00:19:27,365
+<font color="yellow">It's done.</font>
+
+302
+00:19:27,895 --> 00:19:29,425
+<font color="yellow">His blood pressure is at 80 over 40.</font>
+
+303
+00:19:29,625 --> 00:19:30,625
+<font color="yellow">Okay.</font>
+
+304
+00:19:31,055 --> 00:19:33,625
+<font color="yellow">Get two packs of emergency red blood cells.</font>
+
+305
+00:19:34,795 --> 00:19:35,825
+<font color="yellow">Get rapid infusion system ready.</font>
+
+306
+00:19:36,955 --> 00:19:38,025
+<font color="yellow">It's here.</font>
+
+307
+00:19:39,525 --> 00:19:41,425
+<font color="yellow">We have a new portable chest X-ray.</font>
+
+308
+00:19:41,655 --> 00:19:44,155
+<font color="yellow">- Should I get it ready? - No, we need to take a sonogram.</font>
+
+309
+00:19:44,155 --> 00:19:46,365
+<font color="yellow">If his blood pressure rises above 100,</font>
+
+310
+00:19:46,365 --> 00:19:48,095
+<font color="yellow">- take a CT as well. - Okay.</font>
+
+311
+00:19:49,195 --> 00:19:51,055
+<font color="yellow">We need the portable chest X-ray.</font>
+
+312
+00:19:51,525 --> 00:19:52,555
+<font color="yellow">Yes.</font>
+
+313
+00:19:53,955 --> 00:19:55,225
+<font color="yellow">We have an emergency patient.</font>
+
+314
+00:20:08,425 --> 00:20:10,495
+<font color="yellow">Let's move him. In 1, 2, 3.</font>
+
+315
+00:20:12,155 --> 00:20:14,555
+<font color="yellow">Dr. Yoon, cover up his wound,</font>
+
+316
+00:20:14,625 --> 00:20:16,325
+<font color="yellow">and figure out his personal information.</font>
+
+317
+00:20:16,695 --> 00:20:17,755
+<font color="yellow">Call the general surgeons.</font>
+
+318
+00:20:17,755 --> 00:20:20,025
+<font color="yellow">- Both Dong Joo and the new guy. - Okay.</font>
+
+319
+00:20:20,025 --> 00:20:21,425
+<font color="yellow">- Hey, Dr. Geodae. - Yes.</font>
+
+320
+00:20:21,595 --> 00:20:23,125
+<font color="yellow">- Both of you can follow me. - Yes.</font>
+
+321
+00:20:23,155 --> 00:20:24,525
+<font color="yellow">I need a dressing set...</font>
+
+322
+00:20:24,525 --> 00:20:26,055
+<font color="yellow">- and a six-inch eb. - Okay.</font>
+
+323
+00:20:26,095 --> 00:20:27,625
+<font color="yellow">Also, can you see if he has a wallet...</font>
+
+324
+00:20:27,625 --> 00:20:28,925
+<font color="yellow">- and a phone? - Okay.</font>
+
+325
+00:20:29,425 --> 00:20:30,895
+<font color="yellow">Can anyone call the general surgeons for me?</font>
+
+326
+00:20:30,895 --> 00:20:33,195
+<font color="yellow">- Call both Dr. Kang and Dr. Do. - I will.</font>
+
+327
+00:20:34,425 --> 00:20:35,825
+<font color="yellow">I will get them.</font>
+
+328
+00:20:37,955 --> 00:20:39,325
+<font color="yellow">She's very quick.</font>
+
+329
+00:20:39,425 --> 00:20:40,925
+<font color="yellow">Yes, and she's nice.</font>
+
+330
+00:20:44,225 --> 00:20:45,955
+<font color="yellow">- You shocked me. - I'm sorry.</font>
+
+331
+00:20:45,955 --> 00:20:47,395
+<font color="yellow">We have an emergency patient.</font>
+
+332
+00:20:51,555 --> 00:20:52,895
+<font color="yellow">An emergency patient?</font>
+
+333
+00:20:56,655 --> 00:20:58,095
+<font color="yellow">Hello, Dr. Kang.</font>
+
+334
+00:21:00,195 --> 00:21:02,325
+<font color="yellow">This hospital is worse than I thought.</font>
+
+335
+00:21:02,955 --> 00:21:06,755
+<font color="yellow">How can he think of doing a surgery for the chairman here?</font>
+
+336
+00:21:09,425 --> 00:21:10,425
+<font color="yellow">So,</font>
+
+337
+00:21:12,095 --> 00:21:13,395
+<font color="yellow">have you made your decision?</font>
+
+338
+00:21:14,255 --> 00:21:15,255
+<font color="yellow">Which side will you take?</font>
+
+339
+00:21:15,255 --> 00:21:17,195
+<font color="yellow">Me or Boo Yong Joo?</font>
+
+340
+00:21:20,825 --> 00:21:22,125
+<font color="yellow">Hello, Dr. Do.</font>
+
+341
+00:21:23,155 --> 00:21:24,325
+<font color="yellow">Are you all settled in?</font>
+
+342
+00:21:24,825 --> 00:21:26,295
+<font color="yellow">What about the office? Is it okay?</font>
+
+343
+00:21:27,425 --> 00:21:28,925
+<font color="yellow">It's fine.</font>
+
+344
+00:21:28,925 --> 00:21:29,955
+<font color="yellow">I knew it.</font>
+
+345
+00:21:30,325 --> 00:21:32,095
+<font color="yellow">It's just fine.</font>
+
+346
+00:21:33,025 --> 00:21:36,595
+<font color="yellow">What can we do? We should do our job as long as we are here.</font>
+
+347
+00:21:37,365 --> 00:21:38,555
+<font color="yellow">Let's get to work.</font>
+
+348
+00:21:40,365 --> 00:21:41,425
+<font color="yellow">I'll talk to you later.</font>
+
+349
+00:21:42,695 --> 00:21:43,695
+<font color="yellow">Bye.</font>
+
+350
+00:21:49,255 --> 00:21:50,895
+<font color="yellow">Are you still taking sides?</font>
+
+351
+00:21:54,825 --> 00:21:56,295
+<font color="yellow">Then what are you doing here?</font>
+
+352
+00:21:58,495 --> 00:22:00,495
+<font color="yellow">I haven't got any connections or families,</font>
+
+353
+00:22:01,855 --> 00:22:03,225
+<font color="yellow">but your father is the president.</font>
+
+354
+00:22:04,495 --> 00:22:05,855
+<font color="yellow">How did you end up here?</font>
+
+355
+00:22:05,855 --> 00:22:08,795
+<font color="yellow">I did not end up here. I'm just here for an experience.</font>
+
+356
+00:22:09,895 --> 00:22:12,255
+<font color="yellow">I can go back whenever I wish.</font>
+
+357
+00:22:13,025 --> 00:22:14,125
+<font color="yellow">Unlike you.</font>
+
+358
+00:22:21,425 --> 00:22:23,325
+<font color="yellow">Apart from your father,</font>
+
+359
+00:22:23,925 --> 00:22:26,495
+<font color="yellow">is there anything that's better than me?</font>
+
+360
+00:22:28,295 --> 00:22:30,195
+<font color="yellow">If you have anything, show me.</font>
+
+361
+00:22:32,495 --> 00:22:33,495
+<font color="yellow">Prove yourself.</font>
+
+362
+00:22:33,955 --> 00:22:35,355
+<font color="yellow">For once.</font>
+
+363
+00:22:36,555 --> 00:22:37,995
+<font color="yellow">Go and win against Dong Joo just once.</font>
+
+364
+00:22:39,655 --> 00:22:40,995
+<font color="yellow">You're awful.</font>
+
+365
+00:22:41,055 --> 00:22:43,695
+<font color="yellow">I'm just awful, but you're awful and terrible.</font>
+
+366
+00:22:46,125 --> 00:22:47,125
+<font color="yellow">Why?</font>
+
+367
+00:22:47,595 --> 00:22:48,655
+<font color="yellow">Do you want to hit me?</font>
+
+368
+00:22:50,095 --> 00:22:51,525
+<font color="yellow">You're not even worth it.</font>
+
+369
+00:22:52,325 --> 00:22:53,425
+<font color="yellow">It'll only hurt my hand.</font>
+
+370
+00:22:54,825 --> 00:22:57,725
+<font color="yellow">You don't need to save your hand. You're bad at surgeries.</font>
+
+371
+00:23:06,425 --> 00:23:07,495
+<font color="yellow">Excuse me.</font>
+
+372
+00:23:09,895 --> 00:23:13,495
+<font color="yellow">You are wanted at the emergency room.</font>
+
+373
+00:23:20,425 --> 00:23:22,095
+<font color="yellow">Your lips are bleeding.</font>
+
+374
+00:23:26,095 --> 00:23:27,155
+<font color="yellow">Excuse me.</font>
+
+375
+00:23:29,025 --> 00:23:30,795
+<font color="yellow">Aren't you a general surgeon?</font>
+
+376
+00:23:32,225 --> 00:23:34,525
+<font color="yellow">Master Kim wanted you there, too.</font>
+
+377
+00:23:39,395 --> 00:23:40,695
+<font color="yellow">Ventricular fibrillation. Compression.</font>
+
+378
+00:23:43,695 --> 00:23:44,795
+<font color="yellow">Give me 200J.</font>
+
+379
+00:23:46,195 --> 00:23:47,655
+<font color="yellow">- We're ready. - Move away.</font>
+
+380
+00:23:49,095 --> 00:23:50,095
+<font color="yellow">Shock.</font>
+
+381
+00:23:50,395 --> 00:23:51,395
+<font color="yellow">Compression.</font>
+
+382
+00:23:57,655 --> 00:23:58,795
+<font color="yellow">Let's perform intubation.</font>
+
+383
+00:24:04,355 --> 00:24:05,425
+<font color="yellow">Tube, please.</font>
+
+384
+00:24:08,425 --> 00:24:09,425
+<font color="yellow">Okay.</font>
+
+385
+00:24:10,555 --> 00:24:11,595
+<font color="yellow">Stethoscope.</font>
+
+386
+00:24:14,295 --> 00:24:15,355
+<font color="yellow">Move away.</font>
+
+387
+00:24:18,555 --> 00:24:19,555
+<font color="yellow">Okay.</font>
+
+388
+00:24:20,225 --> 00:24:22,295
+<font color="yellow">Give him 1mm of epinephrine every 3 minutes.</font>
+
+389
+00:24:22,395 --> 00:24:24,525
+<font color="yellow">Also, squeeze an ambu bag every 6 seconds.</font>
+
+390
+00:24:24,555 --> 00:24:25,625
+<font color="yellow">Okay.</font>
+
+391
+00:24:26,025 --> 00:24:27,025
+<font color="yellow">Two minutes passed.</font>
+
+392
+00:24:27,355 --> 00:24:28,725
+<font color="yellow">Switch hands and check his pulse.</font>
+
+393
+00:24:29,295 --> 00:24:30,325
+<font color="yellow">Yes.</font>
+
+394
+00:24:32,755 --> 00:24:33,855
+<font color="yellow">No pulse, he's in PEA.</font>
+
+395
+00:24:33,955 --> 00:24:35,095
+<font color="yellow">You, compression.</font>
+
+396
+00:24:36,425 --> 00:24:37,755
+<font color="yellow">When was he reported?</font>
+
+397
+00:24:37,755 --> 00:24:39,495
+<font color="yellow">It was 3:48pm.</font>
+
+398
+00:24:39,725 --> 00:24:42,425
+<font color="yellow">He was at a bus stop, and he suddenly collapsed.</font>
+
+399
+00:24:42,425 --> 00:24:43,595
+<font color="yellow">Someone called the 911,</font>
+
+400
+00:24:43,825 --> 00:24:47,355
+<font color="yellow">and the witness was performing a CPR on him.</font>
+
+401
+00:24:47,355 --> 00:24:48,525
+<font color="yellow">What was his initial treatment?</font>
+
+402
+00:24:48,625 --> 00:24:50,755
+<font color="yellow">We performed ventricular fibrillation on him twice.</font>
+
+403
+00:24:50,755 --> 00:24:53,095
+<font color="yellow">That's 17 minutes before he arrived here.</font>
+
+404
+00:24:53,955 --> 00:24:55,325
+<font color="yellow">Do you have his information?</font>
+
+405
+00:24:55,325 --> 00:24:58,025
+<font color="yellow">He had an ID, so we talked to his wife.</font>
+
+406
+00:24:58,295 --> 00:24:59,925
+<font color="yellow">She's on her way here.</font>
+
+407
+00:25:00,025 --> 00:25:01,925
+<font color="yellow">Okay. Thank you.</font>
+
+408
+00:25:05,255 --> 00:25:07,995
+<font color="yellow">Dr. Kim, he has another wound on his back.</font>
+
+409
+00:25:08,325 --> 00:25:09,995
+<font color="yellow">- Hey, Dr. Geodae. - Yes, Dr. Geodae here.</font>
+
+410
+00:25:10,025 --> 00:25:12,155
+<font color="yellow">Continue to perform compression until he comes back.</font>
+
+411
+00:25:12,325 --> 00:25:14,295
+<font color="yellow">- Don't give up. - Okay.</font>
+
+412
+00:25:16,125 --> 00:25:17,155
+<font color="yellow">Let's check his pulse.</font>
+
+413
+00:25:17,395 --> 00:25:18,395
+<font color="yellow">He's still in asystole.</font>
+
+414
+00:25:18,655 --> 00:25:19,895
+<font color="yellow">My gosh.</font>
+
+415
+00:25:25,225 --> 00:25:27,425
+<font color="yellow">It looks like it's somewhere in the thoracolumbar junction.</font>
+
+416
+00:25:27,695 --> 00:25:29,695
+<font color="yellow">I felt something hard inside.</font>
+
+417
+00:25:31,425 --> 00:25:32,895
+<font color="yellow">I think this is a knife blade.</font>
+
+418
+00:25:34,855 --> 00:25:37,555
+<font color="yellow">It must have broke when he was stabbed.</font>
+
+419
+00:25:39,795 --> 00:25:41,755
+<font color="yellow">Where are the surgeons?</font>
+
+420
+00:25:41,955 --> 00:25:43,195
+<font color="yellow">They are so slow.</font>
+
+421
+00:25:43,555 --> 00:25:45,425
+<font color="yellow">Drag them if you have to.</font>
+
+422
+00:25:45,555 --> 00:25:46,595
+<font color="yellow">Yes, Master Kim.</font>
+
+423
+00:25:47,555 --> 00:25:48,895
+<font color="yellow">Why are you so late?</font>
+
+424
+00:25:50,525 --> 00:25:53,225
+<font color="yellow">- What's his case? - He's a stabbed patient.</font>
+
+425
+00:25:53,355 --> 00:25:54,695
+<font color="yellow">He was stabbed five times in his stomach,</font>
+
+426
+00:25:54,695 --> 00:25:56,995
+<font color="yellow">and there is a knife blade stuck in the thoracolumbar junction.</font>
+
+427
+00:25:57,155 --> 00:25:58,295
+<font color="yellow">What about nerve injuries?</font>
+
+428
+00:25:58,625 --> 00:26:00,195
+<font color="yellow">Both of his lower motors do not seem well.</font>
+
+429
+00:26:02,125 --> 00:26:03,325
+<font color="yellow">What's wrong with your lips?</font>
+
+430
+00:26:04,195 --> 00:26:07,525
+<font color="yellow">- What about his stomach? - He has two bowel perforations.</font>
+
+431
+00:26:07,855 --> 00:26:10,425
+<font color="yellow">We can't see if it's his small bowel or large bowel through the CT.</font>
+
+432
+00:26:10,425 --> 00:26:13,155
+<font color="yellow">His sonogram showed that the wounds are close to his vessels.</font>
+
+433
+00:26:13,155 --> 00:26:14,225
+<font color="yellow">It's toward his vessels as well.</font>
+
+434
+00:26:16,695 --> 00:26:19,125
+<font color="yellow">- Did you fight with someone? - I'm not a kid.</font>
+
+435
+00:26:23,855 --> 00:26:24,925
+<font color="yellow">What's with him?</font>
+
+436
+00:26:25,925 --> 00:26:27,555
+<font color="yellow">Is he sulking because of that?</font>
+
+437
+00:26:31,825 --> 00:26:32,895
+<font color="yellow">Yes, Dr. Song.</font>
+
+438
+00:26:33,495 --> 00:26:35,355
+<font color="yellow">We need you in the emergency room.</font>
+
+439
+00:26:36,495 --> 00:26:38,295
+<font color="yellow">- Dad! - Honey!</font>
+
+440
+00:26:38,295 --> 00:26:39,795
+<font color="yellow">- Honey! - May I help you?</font>
+
+441
+00:26:39,795 --> 00:26:43,355
+<font color="yellow">We got the call saying my dad collapsed at a bus stop.</font>
+
+442
+00:26:43,355 --> 00:26:45,125
+<font color="yellow">They said he was transferred to Doldam Hospital.</font>
+
+443
+00:26:45,125 --> 00:26:47,155
+<font color="yellow">Our doctors are treating him right now.</font>
+
+444
+00:26:47,155 --> 00:26:48,795
+<font color="yellow">Please wait over there.</font>
+
+445
+00:26:49,095 --> 00:26:51,055
+<font color="yellow">How could this happen?</font>
+
+446
+00:26:51,425 --> 00:26:54,395
+<font color="yellow">- My goodness. - Don't cry, Mom.</font>
+
+447
+00:26:56,155 --> 00:26:58,095
+<font color="yellow">Checking heart rhythm.</font>
+
+448
+00:27:04,525 --> 00:27:06,395
+<font color="yellow">He has a pulse. It's an ROSC.</font>
+
+449
+00:27:06,555 --> 00:27:08,025
+<font color="yellow">The blood pressure is between 60 to 90.</font>
+
+450
+00:27:08,025 --> 00:27:09,095
+<font color="yellow">Nice.</font>
+
+451
+00:27:11,055 --> 00:27:13,195
+<font color="yellow">- He needs saline, too. - What?</font>
+
+452
+00:27:14,955 --> 00:27:17,395
+<font color="yellow">Right. I need saline.</font>
+
+453
+00:27:21,125 --> 00:27:22,695
+<font color="yellow">- That's the one. - Right.</font>
+
+454
+00:27:23,855 --> 00:27:25,025
+<font color="yellow">It's not looking good.</font>
+
+455
+00:27:28,425 --> 00:27:29,895
+<font color="yellow">Dr. Kang is here.</font>
+
+456
+00:27:30,155 --> 00:27:32,425
+<font color="yellow">Why did you come alone? Where's the other guy?</font>
+
+457
+00:27:33,295 --> 00:27:34,425
+<font color="yellow">The other guy? Who?</font>
+
+458
+00:27:34,495 --> 00:27:37,695
+<font color="yellow">Medical team of general surgery from Geodae Hospital came down here.</font>
+
+459
+00:27:37,695 --> 00:27:40,395
+<font color="yellow">I wasn't expecting that from President Do.</font>
+
+460
+00:27:41,595 --> 00:27:44,525
+<font color="yellow">I asked you where the other guy is. We paged you both.</font>
+
+461
+00:27:45,425 --> 00:27:46,995
+<font color="yellow">I don't really know where he is.</font>
+
+462
+00:27:46,995 --> 00:27:48,155
+<font color="yellow">I'm here.</font>
+
+463
+00:28:01,755 --> 00:28:03,355
+<font color="yellow">He's a John Doe.</font>
+
+464
+00:28:03,695 --> 00:28:05,325
+<font color="yellow">He has five wounds in his abdomen.</font>
+
+465
+00:28:05,525 --> 00:28:08,855
+<font color="yellow">The three on his right are light wounds, but the other ones aren't.</font>
+
+466
+00:28:08,855 --> 00:28:09,955
+<font color="yellow">He has perforated bowel.</font>
+
+467
+00:28:09,955 --> 00:28:11,855
+<font color="yellow">Blade of the knife broke...</font>
+
+468
+00:28:11,855 --> 00:28:13,655
+<font color="yellow">in the right side of his abdomen.</font>
+
+469
+00:28:13,695 --> 00:28:15,355
+<font color="yellow">Will this call for combine operation?</font>
+
+470
+00:28:15,655 --> 00:28:16,695
+<font color="yellow">Yes.</font>
+
+471
+00:28:16,895 --> 00:28:18,695
+<font color="yellow">- Where should we start? - With his abdomen.</font>
+
+472
+00:28:18,995 --> 00:28:21,055
+<font color="yellow">He might not be able to walk again,</font>
+
+473
+00:28:21,095 --> 00:28:22,395
+<font color="yellow">but at least he won't die.</font>
+
+474
+00:28:22,555 --> 00:28:23,555
+<font color="yellow">Okay.</font>
+
+475
+00:28:23,555 --> 00:28:26,725
+<font color="yellow">I'll go prepare for a different operation, then.</font>
+
+476
+00:28:27,395 --> 00:28:28,425
+<font color="yellow">Hold on.</font>
+
+477
+00:28:28,725 --> 00:28:30,495
+<font color="yellow">I just got the call.</font>
+
+478
+00:28:31,055 --> 00:28:33,725
+<font color="yellow">Are you going to operate on a John Doe patient?</font>
+
+479
+00:28:34,995 --> 00:28:37,325
+<font color="yellow">My goodness.</font>
+
+480
+00:28:37,425 --> 00:28:39,725
+<font color="yellow">His injuries are too dangerous to be operated here.</font>
+
+481
+00:28:40,755 --> 00:28:42,355
+<font color="yellow">Don't waste your time on him.</font>
+
+482
+00:28:42,555 --> 00:28:44,595
+<font color="yellow">I suggest you transfer him to a bigger hospital.</font>
+
+483
+00:28:44,755 --> 00:28:47,725
+<font color="yellow">It doesn't matter how big or small a hospital is.</font>
+
+484
+00:28:47,825 --> 00:28:48,995
+<font color="yellow">It's the surgeon who treats the patient.</font>
+
+485
+00:28:48,995 --> 00:28:51,395
+<font color="yellow">I'm just worried that it might go wrong.</font>
+
+486
+00:28:51,395 --> 00:28:54,095
+<font color="yellow">What will happen if we operate without the guardian's consent...</font>
+
+487
+00:28:54,425 --> 00:28:57,225
+<font color="yellow">and the operation doesn't go well?</font>
+
+488
+00:28:58,155 --> 00:29:00,055
+<font color="yellow">It's not like we can ask you to take...</font>
+
+489
+00:29:00,055 --> 00:29:02,155
+<font color="yellow">full responsibility and resign.</font>
+
+490
+00:29:11,025 --> 00:29:12,155
+<font color="yellow">Excuse me.</font>
+
+491
+00:29:14,495 --> 00:29:16,855
+<font color="yellow">According to the Emergency Medical Service Act,</font>
+
+492
+00:29:17,525 --> 00:29:19,925
+<font color="yellow">in case the emergency patient is not capable of making decisions...</font>
+
+493
+00:29:20,355 --> 00:29:21,695
+<font color="yellow">and when there isn't a guardian to ask for consent,</font>
+
+494
+00:29:21,695 --> 00:29:24,725
+<font color="yellow">an exception is made to ask for consent.</font>
+
+495
+00:29:31,055 --> 00:29:33,025
+<font color="yellow">I'm just saying.</font>
+
+496
+00:29:35,395 --> 00:29:37,725
+<font color="yellow">Hey. Did you hear that?</font>
+
+497
+00:29:40,425 --> 00:29:42,195
+<font color="yellow">It's the law.</font>
+
+498
+00:29:46,195 --> 00:29:47,295
+<font color="yellow">What should we do?</font>
+
+499
+00:29:47,295 --> 00:29:50,325
+<font color="yellow">Move him to the operating room. Can you set the place up?</font>
+
+500
+00:29:50,325 --> 00:29:51,395
+<font color="yellow">Okay.</font>
+
+501
+00:29:55,055 --> 00:29:56,825
+<font color="yellow">- Do In Beom, was it? - Yes.</font>
+
+502
+00:29:56,925 --> 00:29:59,855
+<font color="yellow">You will perform the surgery. Dr. Kang is the assistant.</font>
+
+503
+00:30:00,155 --> 00:30:01,525
+<font color="yellow">Why am I the assistant?</font>
+
+504
+00:30:01,525 --> 00:30:02,595
+<font color="yellow">What are you saying?</font>
+
+505
+00:30:03,195 --> 00:30:05,355
+<font color="yellow">Are you not up for it? Suit yourself, then.</font>
+
+506
+00:30:05,355 --> 00:30:06,855
+<font color="yellow">Can I fill in his spot?</font>
+
+507
+00:30:07,155 --> 00:30:09,525
+<font color="yellow">You should help them treat the cardiac arrest patient.</font>
+
+508
+00:30:10,825 --> 00:30:13,295
+<font color="yellow">I'll treat the spine. That will be all.</font>
+
+509
+00:30:18,825 --> 00:30:19,955
+<font color="yellow">Did you see that?</font>
+
+510
+00:30:20,425 --> 00:30:21,625
+<font color="yellow">He's like that.</font>
+
+511
+00:30:22,855 --> 00:30:25,695
+<font color="yellow">The smell of human blood makes him go crazy.</font>
+
+512
+00:30:25,695 --> 00:30:26,895
+<font color="yellow">Like a mad man.</font>
+
+513
+00:30:27,225 --> 00:30:29,595
+<font color="yellow">Let's move the patient, Mr. Park.</font>
+
+514
+00:30:29,755 --> 00:30:30,755
+<font color="yellow">Yes, Doctor.</font>
+
+515
+00:30:32,895 --> 00:30:34,625
+<font color="yellow">Excuse me. Coming through.</font>
+
+516
+00:30:35,395 --> 00:30:37,295
+<font color="yellow">Hey. Be careful.</font>
+
+517
+00:30:37,395 --> 00:30:38,795
+<font color="yellow">I'm sorry.</font>
+
+518
+00:30:40,855 --> 00:30:42,625
+<font color="yellow">What are you doing? Go after Master Kim.</font>
+
+519
+00:30:43,355 --> 00:30:46,855
+<font color="yellow">I can take care of my own business. I'm not a child, you know.</font>
+
+520
+00:30:51,495 --> 00:30:53,795
+<font color="yellow">You're one to hold grudges.</font>
+
+521
+00:30:54,695 --> 00:30:56,755
+<font color="yellow">Are men all like that, Mr. Park?</font>
+
+522
+00:30:56,755 --> 00:30:57,855
+<font color="yellow">I'm not sure.</font>
+
+523
+00:31:03,395 --> 00:31:04,555
+<font color="yellow">Gosh.</font>
+
+524
+00:31:06,525 --> 00:31:07,525
+<font color="yellow">Excuse me.</font>
+
+525
+00:31:09,795 --> 00:31:11,225
+<font color="yellow">Watch where you're going.</font>
+
+526
+00:31:13,425 --> 00:31:15,855
+<font color="yellow">Are you blind or something?</font>
+
+527
+00:31:22,295 --> 00:31:23,555
+<font color="yellow">Gosh.</font>
+
+528
+00:31:27,925 --> 00:31:30,555
+<font color="yellow">It's waterproofed. Bandage up your hand.</font>
+
+529
+00:31:31,625 --> 00:31:34,225
+<font color="yellow">You can't go in the operating room with an open wound.</font>
+
+530
+00:31:36,395 --> 00:31:38,195
+<font color="yellow">Did I do something wrong to deserve this?</font>
+
+531
+00:31:40,025 --> 00:31:41,795
+<font color="yellow">I won't know if you don't tell me.</font>
+
+532
+00:31:42,125 --> 00:31:43,655
+<font color="yellow">What don't you like about me?</font>
+
+533
+00:31:43,755 --> 00:31:46,125
+<font color="yellow">Your very existence.</font>
+
+534
+00:31:47,195 --> 00:31:48,295
+<font color="yellow">Satisfied?</font>
+
+535
+00:31:49,195 --> 00:31:50,295
+<font color="yellow">Hold on.</font>
+
+536
+00:31:50,925 --> 00:31:52,125
+<font color="yellow">Why would you say that?</font>
+
+537
+00:31:52,225 --> 00:31:54,595
+<font color="yellow">Did I do something wrong?</font>
+
+538
+00:31:54,695 --> 00:31:56,355
+<font color="yellow">- Let go of me. - Tell me.</font>
+
+539
+00:31:56,925 --> 00:31:59,225
+<font color="yellow">Why don't you like my very existence?</font>
+
+540
+00:32:01,325 --> 00:32:02,825
+<font color="yellow">Are you asking because you don't know?</font>
+
+541
+00:32:03,855 --> 00:32:05,355
+<font color="yellow">Is there something I should be aware of?</font>
+
+542
+00:32:07,425 --> 00:32:10,295
+<font color="yellow">Are you playing innocent or just plain rude?</font>
+
+543
+00:32:11,225 --> 00:32:12,325
+<font color="yellow">What are you talking about?</font>
+
+544
+00:32:13,155 --> 00:32:14,155
+<font color="yellow">I understand.</font>
+
+545
+00:32:14,925 --> 00:32:17,325
+<font color="yellow">Even when your dad is the president of Geodae Hospital,</font>
+
+546
+00:32:18,595 --> 00:32:20,025
+<font color="yellow">you won't be comfortable with other people knowing...</font>
+
+547
+00:32:21,425 --> 00:32:24,025
+<font color="yellow">that you're born out of wedlock, right?</font>
+
+548
+00:32:27,625 --> 00:32:28,995
+<font color="yellow">What?</font>
+
+549
+00:32:29,225 --> 00:32:31,155
+<font color="yellow">It's okay. I understand.</font>
+
+550
+00:32:31,725 --> 00:32:33,795
+<font color="yellow">I'll pretend to understand.</font>
+
+551
+00:32:34,655 --> 00:32:38,195
+<font color="yellow">So stop bothering me from now on.</font>
+
+552
+00:32:46,125 --> 00:32:47,155
+<font color="yellow">Born out of wedlock?</font>
+
+553
+00:32:48,195 --> 00:32:49,255
+<font color="yellow">Who?</font>
+
+554
+00:32:50,055 --> 00:32:51,125
+<font color="yellow">Me?</font>
+
+555
+00:32:53,055 --> 00:32:54,125
+<font color="yellow">What?</font>
+
+556
+00:32:55,955 --> 00:32:57,325
+<font color="yellow">Does he think...</font>
+
+557
+00:33:09,425 --> 00:33:11,395
+<font color="yellow">Don't use your fist when you get in a fight in the future.</font>
+
+558
+00:33:14,125 --> 00:33:17,425
+<font color="yellow">If you really feel like beating someone up, just kick him.</font>
+
+559
+00:33:17,525 --> 00:33:18,995
+<font color="yellow">Or you could just take the beating.</font>
+
+560
+00:33:19,555 --> 00:33:20,595
+<font color="yellow">Why me?</font>
+
+561
+00:33:21,395 --> 00:33:22,425
+<font color="yellow">What are you talking about?</font>
+
+562
+00:33:22,425 --> 00:33:24,955
+<font color="yellow">You had me come down here.</font>
+
+563
+00:33:25,595 --> 00:33:27,925
+<font color="yellow">And now you're asking me to perform a surgery.</font>
+
+564
+00:33:28,025 --> 00:33:30,695
+<font color="yellow">Why? Do you think I'm trying to...</font>
+
+565
+00:33:31,195 --> 00:33:34,055
+<font color="yellow">use you to get back at your father?</font>
+
+566
+00:33:34,795 --> 00:33:35,795
+<font color="yellow">Aren't you?</font>
+
+567
+00:33:36,355 --> 00:33:39,125
+<font color="yellow">Stop your nonsense and focus on the operation.</font>
+
+568
+00:33:54,625 --> 00:33:56,255
+<font color="yellow">Where's Dr. Kang? Why isn't he here?</font>
+
+569
+00:34:49,125 --> 00:34:50,225
+<font color="yellow">Are you okay?</font>
+
+570
+00:34:50,895 --> 00:34:51,925
+<font color="yellow">I'm sorry.</font>
+
+571
+00:35:14,725 --> 00:35:16,525
+<font color="yellow">Page Dr. Kang again.</font>
+
+572
+00:35:16,525 --> 00:35:18,655
+<font color="yellow">- Okay. - There's no need.</font>
+
+573
+00:35:20,225 --> 00:35:21,825
+<font color="yellow">I'll be the assistant today.</font>
+
+574
+00:35:27,595 --> 00:35:28,895
+<font color="yellow">Master Kim as an assistant?</font>
+
+575
+00:35:29,195 --> 00:35:30,195
+<font color="yellow">Master Kim.</font>
+
+576
+00:35:33,765 --> 00:35:35,695
+<font color="yellow">He's here. Dr. Kang.</font>
+
+577
+00:35:36,725 --> 00:35:37,925
+<font color="yellow">Sorry I'm late.</font>
+
+578
+00:35:37,925 --> 00:35:40,595
+<font color="yellow">Get out of here. We don't need you here.</font>
+
+579
+00:35:43,855 --> 00:35:46,195
+<font color="yellow">- Master Kim. - I said we don't need you here.</font>
+
+580
+00:35:50,655 --> 00:35:51,695
+<font color="yellow">Let's get started.</font>
+
+581
+00:35:51,795 --> 00:35:54,355
+<font color="yellow">- Master Kim. - Show me what you've got.</font>
+
+582
+00:35:54,955 --> 00:35:56,995
+<font color="yellow">Let's see how good you are.</font>
+
+583
+00:35:57,225 --> 00:35:59,725
+<font color="yellow">Commencing operation.</font>
+
+584
+00:36:00,425 --> 00:36:01,425
+<font color="yellow">Scalpel.</font>
+
+585
+00:36:14,955 --> 00:36:16,055
+<font color="yellow">Bovie.</font>
+
+586
+00:36:26,655 --> 00:36:27,725
+<font color="yellow">Focus.</font>
+
+587
+00:36:28,765 --> 00:36:29,825
+<font color="yellow">Okay.</font>
+
+588
+00:36:30,625 --> 00:36:32,225
+<font color="yellow">His heart is back,</font>
+
+589
+00:36:32,655 --> 00:36:34,925
+<font color="yellow">but I don't think he will wake up.</font>
+
+590
+00:36:35,395 --> 00:36:38,095
+<font color="yellow">Even if he does, he won't be able to perform normally.</font>
+
+591
+00:36:38,725 --> 00:36:42,295
+<font color="yellow">- What about his brain? - There is no hypoxic damage.</font>
+
+592
+00:36:44,025 --> 00:36:45,655
+<font color="yellow">If his brain is fine,</font>
+
+593
+00:36:45,955 --> 00:36:48,555
+<font color="yellow">- shouldn't you try TTM? - TTM?</font>
+
+594
+00:36:49,425 --> 00:36:51,495
+<font color="yellow">That's too expensive. It won't be easy.</font>
+
+595
+00:36:52,625 --> 00:36:54,595
+<font color="yellow">I'll talk to his wife.</font>
+
+596
+00:36:56,265 --> 00:36:57,295
+<font color="yellow">What?</font>
+
+597
+00:36:57,995 --> 00:37:01,095
+<font color="yellow">- Targeted temperature management? - Yes.</font>
+
+598
+00:37:02,125 --> 00:37:05,325
+<font color="yellow">If one's heart stops for whatever reason,</font>
+
+599
+00:37:05,325 --> 00:37:08,425
+<font color="yellow">there is a high chance it will stop again within 24 hours.</font>
+
+600
+00:37:09,155 --> 00:37:11,495
+<font color="yellow">So we performed a blood test and a brain CT scan...</font>
+
+601
+00:37:11,495 --> 00:37:12,955
+<font color="yellow">to find out why it stopped.</font>
+
+602
+00:37:13,095 --> 00:37:14,295
+<font color="yellow">A brain CT scan?</font>
+
+603
+00:37:15,295 --> 00:37:17,725
+<font color="yellow">Isn't that expensive?</font>
+
+604
+00:37:17,725 --> 00:37:19,425
+<font color="yellow">Mom, what are you saying?</font>
+
+605
+00:37:19,655 --> 00:37:20,725
+<font color="yellow">These are the necessary procedures.</font>
+
+606
+00:37:20,955 --> 00:37:21,995
+<font color="yellow">And the result showed...</font>
+
+607
+00:37:22,425 --> 00:37:25,095
+<font color="yellow">he didn't have much brain damage.</font>
+
+608
+00:37:26,125 --> 00:37:27,265
+<font color="yellow">There is something...</font>
+
+609
+00:37:27,495 --> 00:37:29,425
+<font color="yellow">called targeted temperature management.</font>
+
+610
+00:37:30,055 --> 00:37:32,625
+<font color="yellow">We keep the patient's body temperature lower than normal...</font>
+
+611
+00:37:33,025 --> 00:37:35,425
+<font color="yellow">to prevent further brain damage.</font>
+
+612
+00:37:35,695 --> 00:37:38,595
+<font color="yellow">Will he wake up if we do this treatment?</font>
+
+613
+00:37:40,525 --> 00:37:43,355
+<font color="yellow">There is no guarantee.</font>
+
+614
+00:37:43,995 --> 00:37:45,525
+<font color="yellow">But to speak with numbers,</font>
+
+615
+00:37:46,025 --> 00:37:49,395
+<font color="yellow">when someone's heart stops outside of a hospital,</font>
+
+616
+00:37:49,625 --> 00:37:52,295
+<font color="yellow">only 4 out of 100 survive.</font>
+
+617
+00:37:53,095 --> 00:37:54,195
+<font color="yellow">Among them,</font>
+
+618
+00:37:54,355 --> 00:37:57,155
+<font color="yellow">only 1 out of the 100 can carry on...</font>
+
+619
+00:37:57,525 --> 00:37:58,855
+<font color="yellow">a normal life.</font>
+
+620
+00:37:59,195 --> 00:38:01,395
+<font color="yellow">My goodness.</font>
+
+621
+00:38:01,625 --> 00:38:03,495
+<font color="yellow">What if we do this treatment?</font>
+
+622
+00:38:04,725 --> 00:38:06,495
+<font color="yellow">The chances are twice as high.</font>
+
+623
+00:38:06,625 --> 00:38:07,955
+<font color="yellow">We'll do it.</font>
+
+624
+00:38:08,525 --> 00:38:09,695
+<font color="yellow">The problem is...</font>
+
+625
+00:38:10,355 --> 00:38:11,525
+<font color="yellow">the cost.</font>
+
+626
+00:38:12,855 --> 00:38:14,325
+<font color="yellow">How much does it cost?</font>
+
+627
+00:38:14,855 --> 00:38:17,995
+<font color="yellow">The cost of only the materials are 1,600 dollars.</font>
+
+628
+00:38:21,355 --> 00:38:23,625
+<font color="yellow">We are actually very poor.</font>
+
+629
+00:38:24,355 --> 00:38:27,295
+<font color="yellow">We are eligible for medical care type one.</font>
+
+630
+00:38:27,765 --> 00:38:31,495
+<font color="yellow">But the materials of this treatment aren't approved by the medical care.</font>
+
+631
+00:38:32,265 --> 00:38:34,195
+<font color="yellow">You won't be covered for these.</font>
+
+632
+00:38:35,555 --> 00:38:38,795
+<font color="yellow">You have to pay this.</font>
+
+633
+00:38:40,925 --> 00:38:42,325
+<font color="yellow">What do we do?</font>
+
+634
+00:38:42,895 --> 00:38:44,725
+<font color="yellow">What are we going to do?</font>
+
+635
+00:38:45,225 --> 00:38:47,325
+<font color="yellow">Please perform the treatment.</font>
+
+636
+00:38:48,195 --> 00:38:50,595
+<font color="yellow">- Seon Hwa, please. - Mom, don't worry.</font>
+
+637
+00:38:50,695 --> 00:38:52,765
+<font color="yellow">I'll find that money.</font>
+
+638
+00:38:52,925 --> 00:38:55,095
+<font color="yellow">We probably have a lot to pay as of now.</font>
+
+639
+00:38:55,265 --> 00:38:56,355
+<font color="yellow">Mom.</font>
+
+640
+00:38:57,355 --> 00:39:00,495
+<font color="yellow">Dad became like this after giving his everything for us.</font>
+
+641
+00:39:01,555 --> 00:39:04,765
+<font color="yellow">How sad will his life be if we can't do this for him?</font>
+
+642
+00:39:05,495 --> 00:39:06,525
+<font color="yellow">Okay.</font>
+
+643
+00:39:08,055 --> 00:39:10,495
+<font color="yellow">Doctor, please do your best.</font>
+
+644
+00:39:10,595 --> 00:39:12,055
+<font color="yellow">Please save him.</font>
+
+645
+00:39:14,395 --> 00:39:15,595
+<font color="yellow">We'll do our best.</font>
+
+646
+00:39:16,295 --> 00:39:17,355
+<font color="yellow">No.</font>
+
+647
+00:39:17,525 --> 00:39:19,555
+<font color="yellow">That treatment is not insured.</font>
+
+648
+00:39:19,555 --> 00:39:20,725
+<font color="yellow">Exactly.</font>
+
+649
+00:39:20,895 --> 00:39:23,055
+<font color="yellow">Why is this important treatment still uninsured?</font>
+
+650
+00:39:23,055 --> 00:39:24,495
+<font color="yellow">This isn't a plastic surgery.</font>
+
+651
+00:39:25,295 --> 00:39:27,825
+<font color="yellow">I don't know what they do in those high offices,</font>
+
+652
+00:39:27,925 --> 00:39:29,195
+<font color="yellow">but no.</font>
+
+653
+00:39:29,725 --> 00:39:32,055
+<font color="yellow">We're spending money on a patient with no hope.</font>
+
+654
+00:39:32,125 --> 00:39:33,325
+<font color="yellow">What if he doesn't wake up?</font>
+
+655
+00:39:33,655 --> 00:39:35,795
+<font color="yellow">His chances are only 8 to 100.</font>
+
+656
+00:39:35,795 --> 00:39:36,795
+<font color="yellow">If the chances are...</font>
+
+657
+00:39:37,225 --> 00:39:39,795
+<font color="yellow">as low as 1 to 100, should we try everything?</font>
+
+658
+00:39:39,795 --> 00:39:40,995
+<font color="yellow">What if it doesn't work?</font>
+
+659
+00:39:41,295 --> 00:39:43,725
+<font color="yellow">What will you do about his family's financial strain?</font>
+
+660
+00:39:43,955 --> 00:39:45,925
+<font color="yellow">What if they say that they can't pay?</font>
+
+661
+00:39:46,225 --> 00:39:48,855
+<font color="yellow">What will you do about the damages to the hospital?</font>
+
+662
+00:39:48,995 --> 00:39:51,695
+<font color="yellow">That's not for me to worry about. That's for those high officers.</font>
+
+663
+00:39:51,955 --> 00:39:53,155
+<font color="yellow">We treat patients,</font>
+
+664
+00:39:53,155 --> 00:39:55,025
+<font color="yellow">and people in high offices fix this world.</font>
+
+665
+00:39:55,095 --> 00:39:57,295
+<font color="yellow">If you don't like what they do,</font>
+
+666
+00:39:57,295 --> 00:40:00,425
+<font color="yellow">you should one of them to fix this broken world.</font>
+
+667
+00:40:00,555 --> 00:40:01,995
+<font color="yellow">A doctor doesn't have the time for that.</font>
+
+668
+00:40:01,995 --> 00:40:03,655
+<font color="yellow">Someone like you should step up, Mr. Jang.</font>
+
+669
+00:40:03,655 --> 00:40:06,195
+<font color="yellow">I'm Manager Jang, not Mr. Jang, Dr. Yoon.</font>
+
+670
+00:40:06,955 --> 00:40:09,425
+<font color="yellow">I've been promoted as a manger as of today.</font>
+
+671
+00:40:09,795 --> 00:40:11,795
+<font color="yellow">Really? Congratulations.</font>
+
+672
+00:40:11,895 --> 00:40:12,955
+<font color="yellow">Thank you.</font>
+
+673
+00:40:15,525 --> 00:40:17,125
+<font color="yellow">I will treat him, okay?</font>
+
+674
+00:40:17,125 --> 00:40:18,125
+<font color="yellow">No way.</font>
+
+675
+00:40:18,265 --> 00:40:20,055
+<font color="yellow">Never. Not in this life.</font>
+
+676
+00:40:20,925 --> 00:40:22,955
+<font color="yellow">- Mr. Jang. - Manager. I'm Manager Jang.</font>
+
+677
+00:40:23,525 --> 00:40:25,095
+<font color="yellow">I'm sorry, Manager Jang.</font>
+
+678
+00:40:26,155 --> 00:40:28,025
+<font color="yellow">We have police officers here.</font>
+
+679
+00:40:28,495 --> 00:40:30,765
+<font color="yellow">I think they are here for that stabbed patient.</font>
+
+680
+00:40:31,155 --> 00:40:32,225
+<font color="yellow">Okay.</font>
+
+681
+00:40:32,725 --> 00:40:34,765
+<font color="yellow">No. Understood?</font>
+
+682
+00:40:39,795 --> 00:40:41,695
+<font color="yellow">Mr. Jang, I mean, Manager Jang.</font>
+
+683
+00:40:42,625 --> 00:40:44,155
+<font color="yellow">Darn it.</font>
+
+684
+00:40:46,825 --> 00:40:48,995
+<font color="yellow">- Let's do this. - Are we really doing this?</font>
+
+685
+00:40:48,995 --> 00:40:50,895
+<font color="yellow">Do you trust my instinct?</font>
+
+686
+00:40:51,655 --> 00:40:54,395
+<font color="yellow">I have a strong feeling that he will wake up. Let's do it.</font>
+
+687
+00:40:54,395 --> 00:40:57,355
+<font color="yellow">Will you take the responsibility if something goes wrong?</font>
+
+688
+00:40:58,125 --> 00:40:59,265
+<font color="yellow">Will you do this?</font>
+
+689
+00:40:59,695 --> 00:41:00,995
+<font color="yellow">Thank you very much.</font>
+
+690
+00:41:01,265 --> 00:41:02,855
+<font color="yellow">I've just been called.</font>
+
+691
+00:41:04,595 --> 00:41:05,855
+<font color="yellow">- Thanks! - Hey.</font>
+
+692
+00:41:06,095 --> 00:41:07,095
+<font color="yellow">Seo Jung!</font>
+
+693
+00:41:07,825 --> 00:41:08,955
+<font color="yellow">She's a Crazy Whale.</font>
+
+694
+00:41:09,265 --> 00:41:12,295
+<font color="yellow">I knew I should have never met you again.</font>
+
+695
+00:41:13,595 --> 00:41:14,695
+<font color="yellow">Where is this place?</font>
+
+696
+00:41:15,355 --> 00:41:16,495
+<font color="yellow">Who am I?</font>
+
+697
+00:41:16,955 --> 00:41:18,055
+<font color="yellow">Darn it.</font>
+
+698
+00:41:24,595 --> 00:41:25,695
+<font color="yellow">Miss.</font>
+
+699
+00:41:26,055 --> 00:41:28,225
+<font color="yellow">Shouldn't you be taking care of me?</font>
+
+700
+00:41:28,595 --> 00:41:29,655
+<font color="yellow">What's his case?</font>
+
+701
+00:41:29,725 --> 00:41:32,995
+<font color="yellow">I'm not sure. He's asking us to give him a vitamin IV.</font>
+
+702
+00:41:32,995 --> 00:41:34,265
+<font color="yellow">We're already busy enough.</font>
+
+703
+00:41:34,955 --> 00:41:36,225
+<font color="yellow">- Is it him? - Yes.</font>
+
+704
+00:41:53,095 --> 00:41:54,095
+<font color="yellow">Yes, it's me.</font>
+
+705
+00:41:55,495 --> 00:41:58,425
+<font color="yellow">He's in a surgery right now.</font>
+
+706
+00:42:01,265 --> 00:42:03,595
+<font color="yellow">Don't worry about it.</font>
+
+707
+00:42:04,525 --> 00:42:06,495
+<font color="yellow">I'll take care of this.</font>
+
+708
+00:42:07,225 --> 00:42:08,555
+<font color="yellow">Make some soup, will you?</font>
+
+709
+00:42:09,095 --> 00:42:10,155
+<font color="yellow">Make sure you put in beef.</font>
+
+710
+00:42:10,855 --> 00:42:11,895
+<font color="yellow">Okay.</font>
+
+711
+00:42:16,725 --> 00:42:18,725
+<font color="yellow">Sir, how are you doing?</font>
+
+712
+00:42:18,925 --> 00:42:20,295
+<font color="yellow">Bad.</font>
+
+713
+00:42:21,225 --> 00:42:22,225
+<font color="yellow">Why?</font>
+
+714
+00:42:27,995 --> 00:42:29,525
+<font color="yellow">You look okay.</font>
+
+715
+00:42:29,525 --> 00:42:31,225
+<font color="yellow">You can go home.</font>
+
+716
+00:42:31,225 --> 00:42:32,265
+<font color="yellow">Be quiet.</font>
+
+717
+00:42:32,925 --> 00:42:34,295
+<font color="yellow">Give me some IV.</font>
+
+718
+00:42:34,295 --> 00:42:36,995
+<font color="yellow">Don't you have them with vitamin A, B, C, D, E, F, and G?</font>
+
+719
+00:42:36,995 --> 00:42:39,125
+<font color="yellow">Come on, get them on me.</font>
+
+720
+00:42:39,265 --> 00:42:40,355
+<font color="yellow">Let me fill up on my vitamins.</font>
+
+721
+00:42:42,265 --> 00:42:44,725
+<font color="yellow">If you want nutritional IV, go to the outpatient clinic.</font>
+
+722
+00:42:46,695 --> 00:42:48,925
+<font color="yellow">You are awfully talkative.</font>
+
+723
+00:42:49,355 --> 00:42:51,825
+<font color="yellow">Just put me on IV if you don't want to die.</font>
+
+724
+00:42:53,625 --> 00:42:56,155
+<font color="yellow">You're the one who should leave while I'm still nice.</font>
+
+725
+00:42:56,995 --> 00:42:58,155
+<font color="yellow">If you don't, I'm calling the police.</font>
+
+726
+00:42:58,525 --> 00:42:59,655
+<font color="yellow">Do you want them here?</font>
+
+727
+00:43:05,195 --> 00:43:07,265
+<font color="yellow">- Do you really want to die? - No way.</font>
+
+728
+00:43:07,525 --> 00:43:08,765
+<font color="yellow">I'd like to live a long life.</font>
+
+729
+00:43:09,395 --> 00:43:10,855
+<font color="yellow">- Mr. Goo. - Yes.</font>
+
+730
+00:43:10,855 --> 00:43:11,995
+<font color="yellow">My gosh.</font>
+
+731
+00:43:12,555 --> 00:43:14,425
+<font color="yellow">He's leaving. Help him.</font>
+
+732
+00:43:14,725 --> 00:43:17,765
+<font color="yellow">Who is this Mr. Goo?</font>
+
+733
+00:43:34,055 --> 00:43:35,225
+<font color="yellow">Why are you here?</font>
+
+734
+00:43:35,855 --> 00:43:37,025
+<font color="yellow">Is the surgery over?</font>
+
+735
+00:43:37,725 --> 00:43:40,325
+<font color="yellow">- I was kicked out. - Kicked out? Who kicked you out?</font>
+
+736
+00:43:41,395 --> 00:43:43,955
+<font color="yellow">Who would kick me out of the operating room?</font>
+
+737
+00:43:45,425 --> 00:43:46,525
+<font color="yellow">Hey.</font>
+
+738
+00:43:46,655 --> 00:43:49,795
+<font color="yellow">You shouldn't walk out like this. You should have stayed.</font>
+
+739
+00:43:50,925 --> 00:43:52,055
+<font color="yellow">Let me see that.</font>
+
+740
+00:43:53,795 --> 00:43:56,595
+<font color="yellow">Master Kim always yells and embarrasses everyone.</font>
+
+741
+00:43:57,355 --> 00:43:59,655
+<font color="yellow">I thought you would be used to him by now.</font>
+
+742
+00:44:00,095 --> 00:44:02,325
+<font color="yellow">That kind of a surgery is so rare.</font>
+
+743
+00:44:02,525 --> 00:44:04,325
+<font color="yellow">It would've helped you if you stuck around...</font>
+
+744
+00:44:04,495 --> 00:44:07,225
+<font color="yellow">to just watch what he does. Isn't that right?</font>
+
+745
+00:44:10,525 --> 00:44:11,755
+<font color="yellow">Go out with me, Seo Jung.</font>
+
+746
+00:44:16,795 --> 00:44:18,195
+<font color="yellow">What are you saying?</font>
+
+747
+00:44:19,955 --> 00:44:21,395
+<font color="yellow">I'll forget about...</font>
+
+748
+00:44:22,095 --> 00:44:24,225
+<font color="yellow">how you called me as a kid and a teenager.</font>
+
+749
+00:44:24,895 --> 00:44:25,995
+<font color="yellow">Go out with me.</font>
+
+750
+00:44:34,355 --> 00:44:35,955
+<font color="yellow">You can't speak to me like this.</font>
+
+751
+00:44:36,395 --> 00:44:37,925
+<font color="yellow">You're very bold.</font>
+
+752
+00:44:39,325 --> 00:44:40,395
+<font color="yellow">Is that a no?</font>
+
+753
+00:44:41,095 --> 00:44:42,155
+<font color="yellow">Forget about it.</font>
+
+754
+00:44:42,225 --> 00:44:43,995
+<font color="yellow">Go back to the operating room...</font>
+
+755
+00:44:44,325 --> 00:44:46,895
+<font color="yellow">and tell him that you are sorry no matter what he says.</font>
+
+756
+00:44:47,195 --> 00:44:48,955
+<font color="yellow">Tell him that you'll do your best...</font>
+
+757
+00:44:49,055 --> 00:44:51,695
+<font color="yellow">even if all you do is assisting him.</font>
+
+758
+00:44:52,555 --> 00:44:53,655
+<font color="yellow">The third time's a charm.</font>
+
+759
+00:44:54,695 --> 00:44:56,655
+<font color="yellow">I'll ask you out two more times.</font>
+
+760
+00:44:57,895 --> 00:44:59,425
+<font color="yellow">So think about it.</font>
+
+761
+00:45:00,625 --> 00:45:02,855
+<font color="yellow">You did not listen to anything I said, did you?</font>
+
+762
+00:45:04,425 --> 00:45:05,555
+<font color="yellow">Goodbye, then.</font>
+
+763
+00:45:12,025 --> 00:45:15,055
+<font color="yellow">One of them is asking me out all the time,</font>
+
+764
+00:45:15,495 --> 00:45:18,025
+<font color="yellow">and the other one is caught up in a family affair.</font>
+
+765
+00:45:19,395 --> 00:45:20,795
+<font color="yellow">My life became so tiring.</font>
+
+766
+00:45:46,525 --> 00:45:49,355
+<font color="yellow">Things got very annoying thanks to that weird girl.</font>
+
+767
+00:45:51,955 --> 00:45:53,395
+<font color="yellow">What a witch.</font>
+
+768
+00:45:56,355 --> 00:45:59,325
+<font color="yellow">The fine day will come</font>
+
+769
+00:45:59,325 --> 00:46:01,525
+<font color="yellow">Another glory day</font>
+
+770
+00:46:01,995 --> 00:46:04,595
+<font color="yellow">The fine day will come</font>
+
+771
+00:46:10,295 --> 00:46:11,425
+<font color="yellow">Hey, Sir.</font>
+
+772
+00:46:16,425 --> 00:46:17,525
+<font color="yellow">Yes?</font>
+
+773
+00:46:24,295 --> 00:46:25,425
+<font color="yellow">Do you have a lighter?</font>
+
+774
+00:46:27,225 --> 00:46:28,625
+<font color="yellow">I don't smoke.</font>
+
+775
+00:46:33,195 --> 00:46:34,355
+<font color="yellow">It's a non-smoking area.</font>
+
+776
+00:46:39,525 --> 00:46:41,655
+<font color="yellow">That doctor is such a jerk.</font>
+
+777
+00:46:54,025 --> 00:46:55,425
+<font color="yellow">Where is Mr. Jang?</font>
+
+778
+00:46:55,425 --> 00:46:58,225
+<font color="yellow">He stepped out with the police officers.</font>
+
+779
+00:46:58,225 --> 00:47:00,195
+<font color="yellow">- The police were here? - Yes.</font>
+
+780
+00:47:01,595 --> 00:47:03,625
+<font color="yellow">The patient who was stabbed with a knife. Remember?</font>
+
+781
+00:47:03,625 --> 00:47:06,825
+<font color="yellow">They assume that he got involved with gangsters.</font>
+
+782
+00:47:11,855 --> 00:47:14,355
+<font color="yellow">Are you blind or something?</font>
+
+783
+00:47:14,495 --> 00:47:16,525
+<font color="yellow">He's a stabbed patient.</font>
+
+784
+00:47:16,595 --> 00:47:17,955
+<font color="yellow">He was stabbed five times in his stomach,</font>
+
+785
+00:47:17,955 --> 00:47:20,225
+<font color="yellow">and there is a knife blade stuck in the thoracolumbar junction.</font>
+
+786
+00:47:20,225 --> 00:47:23,825
+<font color="yellow">The fine day will come, another glory day</font>
+
+787
+00:47:25,555 --> 00:47:27,755
+<font color="yellow">Where are Mr. Jang and the police officers?</font>
+
+788
+00:47:27,825 --> 00:47:28,995
+<font color="yellow">They're at the emergency room.</font>
+
+789
+00:47:37,795 --> 00:47:39,355
+<font color="yellow">Where on earth are they?</font>
+
+790
+00:47:42,755 --> 00:47:44,955
+<font color="yellow">Dr. Kang, what are you doing here?</font>
+
+791
+00:47:45,755 --> 00:47:46,755
+<font color="yellow">Mr. Jang.</font>
+
+792
+00:47:47,195 --> 00:47:49,555
+<font color="yellow">As of today, I'm the manager. I've been promoted.</font>
+
+793
+00:47:50,555 --> 00:47:51,825
+<font color="yellow">Where are the police officers?</font>
+
+794
+00:47:51,825 --> 00:47:53,695
+<font color="yellow">What? They already left.</font>
+
+795
+00:47:53,695 --> 00:47:55,225
+<font color="yellow">Do you have something to tell them?</font>
+
+796
+00:47:56,355 --> 00:47:59,695
+<font color="yellow">I think a gangster came into our hospital.</font>
+
+797
+00:48:00,655 --> 00:48:01,655
+<font color="yellow">A gangster?</font>
+
+798
+00:48:01,655 --> 00:48:03,625
+<font color="yellow">Do you remember the stabbed patient?</font>
+
+799
+00:48:03,725 --> 00:48:06,125
+<font color="yellow">The police said he might be involved with gangsters.</font>
+
+800
+00:48:06,255 --> 00:48:08,395
+<font color="yellow">- Yes. So what? - Just before, I saw a man...</font>
+
+801
+00:48:08,655 --> 00:48:12,395
+<font color="yellow">with something like a sickle wrapped in papers in the bathroom.</font>
+
+802
+00:48:14,055 --> 00:48:17,325
+<font color="yellow">Ask the police to come back, and tell all the staff members.</font>
+
+803
+00:48:17,425 --> 00:48:18,825
+<font color="yellow">I'll go to the operating room.</font>
+
+804
+00:48:18,925 --> 00:48:20,255
+<font color="yellow">- Okay. - Okay.</font>
+
+805
+00:48:25,655 --> 00:48:28,625
+<font color="yellow">Hello? Is this the police? I'm calling from Doldam Hospital.</font>
+
+806
+00:48:31,225 --> 00:48:33,355
+<font color="yellow">Dr. Song, it's me again.</font>
+
+807
+00:48:34,325 --> 00:48:37,955
+<font color="yellow">It seems like a lot happen in this hospital.</font>
+
+808
+00:48:38,825 --> 00:48:41,355
+<font color="yellow">They got involved with gangsters this time.</font>
+
+809
+00:48:41,595 --> 00:48:44,755
+<font color="yellow">(Restricted Area, Operating Room)</font>
+
+810
+00:48:47,725 --> 00:48:48,825
+<font color="yellow">Whom are you looking for?</font>
+
+811
+00:48:48,855 --> 00:48:50,355
+<font color="yellow">Where is Dr. Yoon?</font>
+
+812
+00:48:50,655 --> 00:48:52,925
+<font color="yellow">She's in the hybrid room with a patient.</font>
+
+813
+00:48:57,925 --> 00:48:58,955
+<font color="yellow">I see.</font>
+
+814
+00:49:00,425 --> 00:49:02,855
+<font color="yellow">I think a suspicious man is in our hospital now.</font>
+
+815
+00:49:03,025 --> 00:49:04,925
+<font color="yellow">Please protect everyone in the emergency room.</font>
+
+816
+00:49:05,025 --> 00:49:08,295
+<font color="yellow">Okay. Mr. Jang... I mean, Manager Jang already told me.</font>
+
+817
+00:49:08,395 --> 00:49:10,095
+<font color="yellow">- Please don't worry. - Thank you.</font>
+
+818
+00:49:12,825 --> 00:49:14,295
+<font color="yellow">- I'm counting on you. - Okay.</font>
+
+819
+00:49:24,795 --> 00:49:26,555
+<font color="yellow">Hurry up and find the man.</font>
+
+820
+00:49:27,555 --> 00:49:28,925
+<font color="yellow">Have you seen a man with a weapon?</font>
+
+821
+00:49:29,355 --> 00:49:30,795
+<font color="yellow">Please stay calm.</font>
+
+822
+00:49:33,925 --> 00:49:34,955
+<font color="yellow">Come out.</font>
+
+823
+00:49:36,195 --> 00:49:37,495
+<font color="yellow">Come in. Hurry.</font>
+
+824
+00:49:40,125 --> 00:49:42,325
+<font color="yellow">Search the room in every corner.</font>
+
+825
+00:50:07,355 --> 00:50:08,725
+<font color="yellow">I think it's the small bowel.</font>
+
+826
+00:50:08,755 --> 00:50:09,895
+<font color="yellow">Irrigation.</font>
+
+827
+00:50:12,325 --> 00:50:13,495
+<font color="yellow">Suction.</font>
+
+828
+00:50:14,355 --> 00:50:15,355
+<font color="yellow">Pad.</font>
+
+829
+00:50:17,825 --> 00:50:19,755
+<font color="yellow">Bring five more packed RBCs.</font>
+
+830
+00:50:19,755 --> 00:50:20,795
+<font color="yellow">Yes, Doctor.</font>
+
+831
+00:50:21,925 --> 00:50:24,225
+<font color="yellow">- How is his condition? - Good so far.</font>
+
+832
+00:50:26,625 --> 00:50:28,255
+<font color="yellow">I found the bleeding focus.</font>
+
+833
+00:50:30,495 --> 00:50:31,555
+<font color="yellow">Hemostatic forceps.</font>
+
+834
+00:50:37,525 --> 00:50:38,725
+<font color="yellow">Forceps to tie it.</font>
+
+835
+00:50:55,125 --> 00:50:56,325
+<font color="yellow">Dr. Kang.</font>
+
+836
+00:50:56,425 --> 00:50:57,925
+<font color="yellow">What are you doing here?</font>
+
+837
+00:50:58,125 --> 00:51:00,125
+<font color="yellow">I told you to leave. Why did you come back?</font>
+
+838
+00:51:00,125 --> 00:51:01,295
+<font color="yellow">We have an emergency.</font>
+
+839
+00:51:02,195 --> 00:51:04,655
+<font color="yellow">Emergency? What do you mean?</font>
+
+840
+00:51:04,655 --> 00:51:08,295
+<font color="yellow">I assume that the gangster who hurt this patient is in our hospital.</font>
+
+841
+00:51:08,295 --> 00:51:09,325
+<font color="yellow">Why?</font>
+
+842
+00:51:09,825 --> 00:51:12,895
+<font color="yellow">Are you afraid that gangster might barge in here?</font>
+
+843
+00:51:12,895 --> 00:51:14,495
+<font color="yellow">You never know.</font>
+
+844
+00:51:14,625 --> 00:51:17,055
+<font color="yellow">- We should stay alert... - Forget it. Get out of here now!</font>
+
+845
+00:51:22,395 --> 00:51:23,425
+<font color="yellow">I'll stay.</font>
+
+846
+00:51:29,625 --> 00:51:31,425
+<font color="yellow">What? Hey.</font>
+
+847
+00:51:32,755 --> 00:51:34,855
+<font color="yellow">Even if the gangster comes in here,</font>
+
+848
+00:51:35,325 --> 00:51:37,425
+<font color="yellow">you wouldn't be of much help.</font>
+
+849
+00:51:37,425 --> 00:51:39,695
+<font color="yellow">So just stop bothering me and get out of here.</font>
+
+850
+00:51:40,395 --> 00:51:41,555
+<font color="yellow">I'll stay here.</font>
+
+851
+00:51:43,055 --> 00:51:45,855
+<font color="yellow">Go back and tell hi that you are sorry no matter what he says.</font>
+
+852
+00:51:50,525 --> 00:51:52,525
+<font color="yellow">What did I do so wrong?</font>
+
+853
+00:51:56,095 --> 00:51:59,425
+<font color="yellow">I was late only for a few minutes. Is it that wrong?</font>
+
+854
+00:51:59,425 --> 00:52:00,925
+<font color="yellow">You were late,</font>
+
+855
+00:52:01,095 --> 00:52:04,525
+<font color="yellow">and you were even preoccupied when you came in here.</font>
+
+856
+00:52:04,525 --> 00:52:05,695
+<font color="yellow">I wasn't preoccupied.</font>
+
+857
+00:52:05,695 --> 00:52:09,655
+<font color="yellow">What were you thinking after I told you to assist Dr. Do?</font>
+
+858
+00:52:09,655 --> 00:52:12,825
+<font color="yellow">You were frustrated and upset. You didn't want to do that.</font>
+
+859
+00:52:13,725 --> 00:52:15,495
+<font color="yellow">"Should I do this or not?"</font>
+
+860
+00:52:15,895 --> 00:52:17,495
+<font color="yellow">That was all you thought about.</font>
+
+861
+00:52:19,695 --> 00:52:22,225
+<font color="yellow">Listen. This isn't your playground.</font>
+
+862
+00:52:22,525 --> 00:52:26,225
+<font color="yellow">Whether you two fight or whatever, leave it outside.</font>
+
+863
+00:52:26,225 --> 00:52:27,355
+<font color="yellow">Once you entered this room,</font>
+
+864
+00:52:27,655 --> 00:52:30,555
+<font color="yellow">you should've cleared your mind and focused on the patient.</font>
+
+865
+00:52:30,995 --> 00:52:32,995
+<font color="yellow">How dare you throw a tantrum...</font>
+
+866
+00:52:33,025 --> 00:52:35,655
+<font color="yellow">when you started an operation without clear mind?</font>
+
+867
+00:52:35,695 --> 00:52:39,625
+<font color="yellow">Do you think you can do your best when you're preoccupied?</font>
+
+868
+00:52:41,525 --> 00:52:45,625
+<font color="yellow">You don't deserve to be in here and even to breathe.</font>
+
+869
+00:52:45,655 --> 00:52:46,755
+<font color="yellow">Get lost.</font>
+
+870
+00:53:00,895 --> 00:53:02,255
+<font color="yellow">I stopped the bleeding.</font>
+
+871
+00:53:02,755 --> 00:53:04,225
+<font color="yellow">I'll conduct a segmental resection,</font>
+
+872
+00:53:04,425 --> 00:53:06,355
+<font color="yellow">and then end-to-end anastomosis.</font>
+
+873
+00:53:06,425 --> 00:53:09,025
+<font color="yellow">I'll close it up as soon as possible and move on to the spine.</font>
+
+874
+00:53:09,025 --> 00:53:10,055
+<font color="yellow">Okay.</font>
+
+875
+00:53:10,395 --> 00:53:11,425
+<font color="yellow">Babcock Forceps.</font>
+
+876
+00:53:26,755 --> 00:53:28,655
+<font color="yellow">I hope he'll get through this.</font>
+
+877
+00:53:29,695 --> 00:53:32,255
+<font color="yellow">- Let me ask you something. - What is it?</font>
+
+878
+00:53:32,255 --> 00:53:34,825
+<font color="yellow">You could've ordered the targeted temperature management.</font>
+
+879
+00:53:34,825 --> 00:53:36,425
+<font color="yellow">Why did you try to convince me?</font>
+
+880
+00:53:37,595 --> 00:53:40,155
+<font color="yellow">It's because he's your patient.</font>
+
+881
+00:53:40,155 --> 00:53:42,755
+<font color="yellow">No. I think there's some other reason.</font>
+
+882
+00:53:42,755 --> 00:53:44,155
+<font color="yellow">What is it? Tell me.</font>
+
+883
+00:53:44,155 --> 00:53:46,225
+<font color="yellow">There's no other reason.</font>
+
+884
+00:53:46,225 --> 00:53:48,355
+<font color="yellow">Why would there be?</font>
+
+885
+00:53:50,495 --> 00:53:53,395
+<font color="yellow">- I'll go drink some water. - Why all of a sudden?</font>
+
+886
+00:53:54,525 --> 00:53:56,955
+<font color="yellow">She seems so suspicious.</font>
+
+887
+00:53:57,555 --> 00:53:58,725
+<font color="yellow">Doesn't she?</font>
+
+888
+00:54:00,325 --> 00:54:02,995
+<font color="yellow">She says she's in charge of ER and Cardio,</font>
+
+889
+00:54:03,525 --> 00:54:06,825
+<font color="yellow">but she behaves passively like an intern.</font>
+
+890
+00:54:12,395 --> 00:54:16,155
+<font color="yellow">As I thought, something is wrong.</font>
+
+891
+00:54:17,195 --> 00:54:18,425
+<font color="yellow">Don't you agree?</font>
+
+892
+00:54:20,225 --> 00:54:21,355
+<font color="yellow">I don't know.</font>
+
+893
+00:54:30,925 --> 00:54:33,295
+<font color="yellow">How could I say that I'm working as an orderly?</font>
+
+894
+00:54:34,655 --> 00:54:36,425
+<font color="yellow">I can never say that.</font>
+
+895
+00:54:37,795 --> 00:54:39,655
+<font color="yellow">(Operating Room)</font>
+
+896
+00:54:40,895 --> 00:54:42,195
+<font color="yellow">(In Operation)</font>
+
+897
+00:54:50,025 --> 00:54:51,555
+<font color="yellow">I wish I was in there.</font>
+
+898
+00:55:00,555 --> 00:55:02,055
+<font color="yellow">Where did he hide? Why can't we find him?</font>
+
+899
+00:55:04,955 --> 00:55:06,725
+<font color="yellow">- Have you found him? - No, we haven't.</font>
+
+900
+00:55:07,825 --> 00:55:09,095
+<font color="yellow">Did you search thoroughly?</font>
+
+901
+00:55:09,255 --> 00:55:11,855
+<font color="yellow">Don't you think Dr. Kang was mistaken?</font>
+
+902
+00:55:11,855 --> 00:55:14,255
+<font color="yellow">Do you think so? Gosh.</font>
+
+903
+00:55:14,655 --> 00:55:16,295
+<font color="yellow">Excuse me.</font>
+
+904
+00:55:16,955 --> 00:55:18,625
+<font color="yellow">Are you still here?</font>
+
+905
+00:55:21,395 --> 00:55:22,995
+<font color="yellow">He's in there, right?</font>
+
+906
+00:55:24,425 --> 00:55:27,395
+<font color="yellow">- Excuse me? - The guy stabbed with a knife.</font>
+
+907
+00:55:29,255 --> 00:55:32,195
+<font color="yellow">He's undergoing a surgery in this room, right?</font>
+
+908
+00:55:33,425 --> 00:55:34,425
+<font color="yellow">Am I right?</font>
+
+909
+00:55:42,855 --> 00:55:44,425
+<font color="yellow">I'll be done after one more stitch.</font>
+
+910
+00:55:44,425 --> 00:55:46,525
+<font color="yellow">We'll switch the positions once he's done.</font>
+
+911
+00:55:49,295 --> 00:55:50,495
+<font color="yellow">Dr. Nam, how's he doing?</font>
+
+912
+00:55:50,495 --> 00:55:52,425
+<font color="yellow">He's better since Dr. Do stopped the bleeding.</font>
+
+913
+00:55:52,855 --> 00:55:54,425
+<font color="yellow">- Prone position? - Yes, please.</font>
+
+914
+00:55:55,755 --> 00:55:57,055
+<font color="yellow">Would he be okay with the pressure on his abdomen?</font>
+
+915
+00:55:57,325 --> 00:55:59,725
+<font color="yellow">I think he'll be okay if we raise his pelvis a little.</font>
+
+916
+00:55:59,895 --> 00:56:01,055
+<font color="yellow">- Cut. - Cutting.</font>
+
+917
+00:56:02,195 --> 00:56:04,795
+<font color="yellow">- I'm done. - Okay. Let's switch the positions.</font>
+
+918
+00:56:09,395 --> 00:56:11,695
+<font color="yellow">Hey. Hey.</font>
+
+919
+00:56:35,955 --> 00:56:37,025
+<font color="yellow">Are you ready?</font>
+
+920
+00:56:38,125 --> 00:56:39,195
+<font color="yellow">Okay.</font>
+
+921
+00:56:47,155 --> 00:56:48,295
+<font color="yellow">Seo Jung.</font>
+
+922
+00:56:54,595 --> 00:56:56,525
+<font color="yellow">This is ridiculous.</font>
+
+923
+00:56:56,925 --> 00:56:57,995
+<font color="yellow">Hey.</font>
+
+924
+00:56:58,495 --> 00:57:00,855
+<font color="yellow">How dare you come in here looking like that?</font>
+
+925
+00:57:03,395 --> 00:57:04,725
+<font color="yellow">I'm sorry, Doctor.</font>
+
+926
+00:57:06,055 --> 00:57:08,895
+<font color="yellow">It's not that I wanted to come in here.</font>
+
+927
+00:57:20,925 --> 00:57:22,125
+<font color="yellow">I'm sorry.</font>
+
+928
+00:57:22,695 --> 00:57:23,855
+<font color="yellow">I'm so sorry.</font>
+
+929
+00:57:28,395 --> 00:57:29,895
+<font color="yellow">Get in there slowly.</font>
+
+930
+00:57:31,295 --> 00:57:32,825
+<font color="yellow">Walk slowly.</font>
+
+931
+00:57:35,655 --> 00:57:38,425
+<font color="yellow">You might get a cut on your neck.</font>
+
+932
+00:57:39,095 --> 00:57:40,125
+<font color="yellow">You.</font>
+
+933
+00:57:41,195 --> 00:57:42,425
+<font color="yellow">Step back. Now.</font>
+
+934
+00:57:44,955 --> 00:57:46,025
+<font color="yellow">Seo Jung, are you all right?</font>
+
+935
+00:57:46,625 --> 00:57:47,625
+<font color="yellow">I'm sorry.</font>
+
+936
+00:57:50,925 --> 00:57:51,955
+<font color="yellow">Who are you?</font>
+
+937
+00:57:52,855 --> 00:57:55,725
+<font color="yellow">Who are you and why are you doing this in the operating room?</font>
+
+938
+00:57:56,355 --> 00:57:57,695
+<font color="yellow">Who is the leader?</font>
+
+939
+00:58:00,795 --> 00:58:03,595
+<font color="yellow">Who gives orders in this operating room?</font>
+
+940
+00:58:06,225 --> 00:58:07,255
+<font color="yellow">That's me.</font>
+
+941
+00:58:13,325 --> 00:58:14,355
+<font color="yellow">What's the matter?</font>
+
+942
+00:58:17,425 --> 00:58:18,795
+<font color="yellow">Stop the operation right now.</font>
+
+943
+00:58:20,095 --> 00:58:21,925
+<font color="yellow">If you don't stop it right now,</font>
+
+944
+00:58:22,595 --> 00:58:23,725
+<font color="yellow">I will kill this woman.</font>
+
+945
+00:58:29,295 --> 00:58:31,725
+<font color="yellow">Get off the patient right now.</font>
+
+946
+00:58:31,855 --> 00:58:32,925
+<font color="yellow">No!</font>
+
+947
+00:58:44,295 --> 00:58:46,295
+<font color="yellow">(Dr. Romantic)</font>
+
+948
+00:58:47,295 --> 00:58:49,295
+<font color="yellow">I don't want to give up on the operation.</font>
+
+949
+00:58:49,295 --> 00:58:52,925
+<font color="yellow">Again, in the worst-case scenario, you might get disqualified.</font>
+
+950
+00:58:52,925 --> 00:58:54,755
+<font color="yellow">Just let them deal with me.</font>
+
+951
+00:58:54,825 --> 00:58:57,655
+<font color="yellow">Don't drag innocent people into this like a coward.</font>
+
+952
+00:58:57,655 --> 00:59:00,855
+<font color="yellow">Dr. Boo Yong Joo is disqualified from any medical practice as of now.</font>
+
+953
+00:59:00,855 --> 00:59:03,195
+<font color="yellow">The technical term for this is bluffing.</font>
+
+954
+00:59:03,995 --> 00:59:05,625
+<font color="yellow">In fancier words,</font>
+
+955
+00:59:06,025 --> 00:59:07,395
+<font color="yellow">it is romantic ideals.</font>
+

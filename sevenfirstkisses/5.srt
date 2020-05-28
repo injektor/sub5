@@ -1,0 +1,528 @@
+1
+00:00:00,543 --> 00:00:02,204
+<font color="yellow">[Lee Cho Hee]</font>
+
+2
+00:00:02,755 --> 00:00:04,011
+<font color="yellow">[Choi Ji Woo]</font>
+
+3
+00:00:04,304 --> 00:00:05,596
+<font color="yellow">[Lee Joon Gi]</font>
+
+4
+00:00:06,340 --> 00:00:07,656
+<font color="yellow">[Park Hae Jin]</font>
+
+5
+00:00:08,184 --> 00:00:09,506
+<font color="yellow">[Ji Chang Wook]</font>
+
+6
+00:00:10,017 --> 00:00:11,565
+<font color="yellow">[Kai, EXO]</font>
+
+7
+00:00:11,963 --> 00:00:13,176
+<font color="yellow">[Taec Yeon, 2PM]</font>
+
+8
+00:00:13,867 --> 00:00:15,218
+<font color="yellow">[Lee Jong Suk]</font>
+
+9
+00:00:15,600 --> 00:00:16,992
+<font color="yellow">[Lee Min Ho]</font>
+
+10
+00:00:16,972 --> 00:00:18,478
+<font color="yellow">[7 Ciuman Pertama]</font>
+
+11
+00:00:19,770 --> 00:00:22,465
+<font color="yellow">[Episode 5 - Kai "Aku adalah guru,
+dan kau adalah murid!]</font>
+
+12
+00:00:22,770 --> 00:00:32,465
+<font color="yellow"><font color=#FF6600>Diterjemahkan oleh</font>
+<font color=#00FFFF>baekdpotato</font></font>
+
+13
+00:00:33,930 --> 00:00:37,095
+<font color="yellow"><i>Aku harus menerjemahkan untuk mereka?
+Kejadian macam apa ini?</i></font>
+
+14
+00:00:38,835 --> 00:00:44,440
+<font color="yellow">Bisakah aku mendapatkan diskon jika aku
+menggunakan kartu VIP, kupon, dan kartu kredit bersamaan?</font>
+
+15
+00:00:45,760 --> 00:00:49,780
+<font color="yellow">Ya, Anda akan menerima diskon
+untuk kartu VIP Gold Anda,</font>
+
+16
+00:00:49,780 --> 00:00:52,240
+<font color="yellow">dan diskon tambahan untuk kupon ini.</font>
+
+17
+00:00:52,240 --> 00:00:55,285
+<font color="yellow">Dan Anda bisa menggunakan kartu
+kredit Anda seperti uang tunai.</font>
+
+18
+00:00:56,010 --> 00:00:58,460
+<font color="yellow">Itu hebat!
+<i>Apa yang baru saja aku katakan?</i></font>
+
+19
+00:00:59,150 --> 00:01:02,925
+<font color="yellow">Aku dengar aku juga bisa membeli
+lewat toko duty free online.</font>
+
+20
+00:01:02,925 --> 00:01:05,105
+<font color="yellow">Bisakah kau menunjukkan bagaimana
+cara melakukannya?</font>
+
+21
+00:01:07,260 --> 00:01:11,440
+<font color="yellow">Anda bisa mengunduh aplikasi
+"LOTTE DUTY FREE" dari ponsel Anda,</font>
+
+22
+00:01:12,140 --> 00:01:17,440
+<font color="yellow">dan Anda bisa dengan mudah memesan barang
+yang sama yang bisa anda dapatkan di toko ini.</font>
+
+23
+00:01:17,440 --> 00:01:19,465
+<font color="yellow">Itu sangat mudah.</font>
+
+24
+00:01:19,465 --> 00:01:21,655
+<font color="yellow"><i>Apa yang sebenarnya....
+Apa yang kukatakan?!</i></font>
+
+25
+00:01:21,655 --> 00:01:23,538
+<font color="yellow">Aku akan membayar melalui ponselku lain kali.</font>
+
+26
+00:01:24,236 --> 00:01:26,768
+<font color="yellow">- Terima kasih.
+- Terima kasih.
+- Sama-sama.</font>
+
+27
+00:01:26,768 --> 00:01:28,740
+<font color="yellow">China, huh?</font>
+
+28
+00:01:28,740 --> 00:01:32,170
+<font color="yellow">Aku penasaran siapa yang akan kutemui kali ini?</font>
+
+29
+00:01:33,306 --> 00:01:35,565
+<font color="yellow">Oh, benar, aku mendapat telepon tadi...</font>
+
+30
+00:01:35,565 --> 00:01:37,120
+<font color="yellow">Apa kau tahu sudah berapa kali
+aku menghubungimu?</font>
+
+31
+00:01:41,025 --> 00:01:44,400
+<font color="yellow"><i>Kali ini Kai anggota EXO?</i></font>
+
+32
+00:01:44,400 --> 00:01:47,430
+<font color="yellow">Sangat sulit untuk berkencan denganmu.</font>
+
+33
+00:01:49,140 --> 00:01:51,065
+<font color="yellow">Kencan?</font>
+
+34
+00:01:51,385 --> 00:01:56,115
+<font color="yellow">Ayolah, memangnya apalagi namanya kalau seorang
+pria dewasa dan wanita membuat janji makan malam?</font>
+
+35
+00:01:56,115 --> 00:01:58,720
+<font color="yellow">Kapan kau akan berhenti melihatku
+sebagai murid lesmu?</font>
+
+36
+00:02:00,175 --> 00:02:04,455
+<font color="yellow">Oh, jadi aku seorang guru,
+dan kau adalah muridnya...</font>
+
+37
+00:02:04,455 --> 00:02:07,051
+<font color="yellow">Ayo!
+Aku lapar.</font>
+
+38
+00:02:21,226 --> 00:02:23,746
+<font color="yellow">- Ini mirip denganmu.
+- Tidak, tidak.</font>
+
+39
+00:02:25,395 --> 00:02:26,815
+<font color="yellow">Mau berfoto?</font>
+
+40
+00:02:37,040 --> 00:02:38,673
+<font color="yellow">Wangiya sangat harum.</font>
+
+41
+00:02:39,853 --> 00:02:41,848
+<font color="yellow">- Iya, kan?
+- Yang ini lebih wangi lagi.</font>
+
+42
+00:03:00,772 --> 00:03:02,173
+<font color="yellow">Hujan.</font>
+
+43
+00:03:02,797 --> 00:03:05,863
+<font color="yellow">Apa yang harus kita lakukan?
+Kau tidak membawa payung, kan?</font>
+
+44
+00:03:05,864 --> 00:03:08,799
+<font color="yellow">Aku tidak membawanya.
+Kita hanya harus pergi ke sana.</font>
+
+45
+00:03:10,490 --> 00:03:13,910
+<font color="yellow">Haruskah kita membeli payung?
+Atau mungkin kita bisa seperti ini...</font>
+
+46
+00:03:13,910 --> 00:03:15,300
+<font color="yellow">Kita bisa berlari...</font>
+
+47
+00:03:23,070 --> 00:03:24,385
+<font color="yellow">Ayo.</font>
+
+48
+00:03:52,660 --> 00:03:55,265
+<font color="yellow">- Terima kasih.
+- Silahkan dinikmati.</font>
+
+49
+00:03:59,140 --> 00:04:04,340
+<font color="yellow"><i>Dia terlihat seperti pangeran
+bahkan saat dia sedang makan burger.</i></font>
+
+50
+00:04:07,965 --> 00:04:09,190
+<font color="yellow">Apa?</font>
+
+51
+00:04:09,956 --> 00:04:13,535
+<font color="yellow">Apa kau tidak senang karena aku
+hanya membelikanmu burger untuk makan malam?</font>
+
+52
+00:04:13,535 --> 00:04:16,485
+<font color="yellow">Tidak sama sekali!
+Burger adalah makanan kesukaanku!</font>
+
+53
+00:04:16,960 --> 00:04:18,685
+<font color="yellow">Sepertinya kau tidak tahu!</font>
+
+54
+00:04:18,685 --> 00:04:21,000
+<font color="yellow">Tapi apa bahasa Cinanya "burger"?</font>
+
+55
+00:04:21,000 --> 00:04:24,260
+<font color="yellow">"Burger" adalah "han bao bao".</font>
+
+56
+00:04:24,480 --> 00:04:27,275
+<font color="yellow"><i>Sepertinya aku guru les bahasa Cina.</i></font>
+
+57
+00:04:27,720 --> 00:04:30,175
+<font color="yellow"><i>Tapi, karena ini hubungan antara
+murid dengan guru,</i></font>
+
+58
+00:04:30,175 --> 00:04:32,845
+<font color="yellow"><i>sepertinya kami tidak akan berakhir
+dengan situasi berciuman.</i></font>
+
+59
+00:04:33,995 --> 00:04:36,480
+<font color="yellow"><i>Itu berarti aku akan bisa
+bertemu dengannya lebih lama.</i></font>
+
+60
+00:04:36,750 --> 00:04:41,055
+<font color="yellow">Akan sangat sulit untuk bertemu denganmu
+tahun depan karena aku akan sering berada di Cina.</font>
+
+61
+00:04:42,735 --> 00:04:44,355
+<font color="yellow">Ya, kau akan pergi ke China...</font>
+
+62
+00:04:45,040 --> 00:04:47,915
+<font color="yellow">Kenapa kau akan sering berada di sana?</font>
+
+63
+00:04:47,915 --> 00:04:49,490
+<font color="yellow">Apa maksudmu?</font>
+
+64
+00:04:49,980 --> 00:04:53,830
+<font color="yellow">Aku mulai belajar bahasa Cina darimu
+supaya aku bisa pergi tampil di Cina.</font>
+
+65
+00:04:55,415 --> 00:04:57,740
+<font color="yellow">Aku masih SMA waktu itu.</font>
+
+66
+00:04:59,415 --> 00:05:00,940
+<font color="yellow">Itu benar.</font>
+
+67
+00:05:07,820 --> 00:05:09,040
+<font color="yellow">Guru.</font>
+
+68
+00:05:10,960 --> 00:05:13,000
+<font color="yellow">Aku tidak akan memanggilmu "Guru" lagi.</font>
+
+69
+00:05:13,825 --> 00:05:16,275
+<font color="yellow">Kita hanya berbeda 5 tahun.</font>
+
+70
+00:05:16,990 --> 00:05:19,990
+<font color="yellow">Kita akan bisa menjadi seorang teman.</font>
+
+71
+00:05:21,535 --> 00:05:22,700
+<font color="yellow">Tidak.</font>
+
+72
+00:05:22,925 --> 00:05:25,575
+<font color="yellow">Aku adalah gurumu dan kau adalah muridku.</font>
+
+73
+00:05:26,805 --> 00:05:28,110
+<font color="yellow">Baiklah.</font>
+
+74
+00:05:29,200 --> 00:05:31,640
+<font color="yellow"><i>Aku punya firasat buruk tentang ini.</i></font>
+
+75
+00:05:31,640 --> 00:05:33,625
+<font color="yellow"><i>Aku harap aku bisa bersamanya lebih lama...</i></font>
+
+76
+00:05:36,565 --> 00:05:38,180
+<font color="yellow">Nikmati makananmu.</font>
+
+77
+00:05:49,781 --> 00:05:52,147
+<font color="yellow">- Hujannya tidak lama.
+- Tidak.</font>
+
+78
+00:05:55,745 --> 00:05:57,157
+<font color="yellow">Mereka melakukan sesuatu di sebelah sana.</font>
+
+79
+00:05:58,449 --> 00:05:59,624
+<font color="yellow">Apa kau mau melihatnya?</font>
+
+80
+00:06:12,405 --> 00:06:13,845
+<font color="yellow">Kau mau ke sana?</font>
+
+81
+00:06:13,845 --> 00:06:15,845
+<font color="yellow">Tidak, aku penari yang buruk.</font>
+
+82
+00:06:15,845 --> 00:06:17,532
+<font color="yellow">- Ayo!
+- Tidak.</font>
+
+83
+00:06:20,765 --> 00:06:21,880
+<font color="yellow">Tidak apa-apa.</font>
+
+84
+00:07:02,610 --> 00:07:05,760
+<font color="yellow"><i>Jika ini adalah mimpi,
+aku tidak akan pernah mau terbangun!</i></font>
+
+85
+00:07:39,203 --> 00:07:43,296
+<font color="yellow">Aku tidak mau memanggilmu "Guru" lagi.</font>
+
+86
+00:07:44,280 --> 00:07:47,210
+<font color="yellow">Lalu kau akan memanggilku apa?</font>
+
+87
+00:07:48,967 --> 00:07:50,003
+<font color="yellow">"Kau".</font>
+
+88
+00:07:53,775 --> 00:07:56,040
+<font color="yellow">Berhenti bermain-main...</font>
+
+89
+00:07:56,040 --> 00:07:58,515
+<font color="yellow">Aku tidak pernah bermain-main.</font>
+
+90
+00:08:12,260 --> 00:08:14,580
+<font color="yellow">Jika kau tidak menyukainya,
+kau bisa bilang "tidak".</font>
+
+91
+00:08:16,660 --> 00:08:19,420
+<font color="yellow">Apa yang akan terjadi jika aku mengatakan "tidak"?</font>
+
+92
+00:08:19,595 --> 00:08:22,295
+<font color="yellow">Aku tidak akan menemuimu lagi,
+bahkan sebagai muridmu.</font>
+
+93
+00:08:25,365 --> 00:08:29,240
+<font color="yellow">Kau tidak akan mengatakan kalau kau
+tidak tahu tentang perasaanku, kan?</font>
+
+94
+00:08:30,410 --> 00:08:33,240
+<font color="yellow">Maksudku... sepertinya aku tahu...</font>
+
+95
+00:08:38,800 --> 00:08:41,300
+<font color="yellow">Oke, aku mengerti.</font>
+
+96
+00:08:41,300 --> 00:08:43,745
+<font color="yellow">Tapi tidak sekarang.
+Nanti...</font>
+
+97
+00:08:43,745 --> 00:08:45,140
+<font color="yellow">Jadi ini bukan penolakan?</font>
+
+98
+00:08:45,345 --> 00:08:47,200
+<font color="yellow">Tidak mungkin!
+Ini bukan penolakan...</font>
+
+99
+00:08:47,200 --> 00:08:49,239
+<font color="yellow">Hanya saja saat ini...</font>
+
+100
+00:08:49,995 --> 00:08:55,770
+<font color="yellow">Hanya saja...
+Bisakah kita bicara tentang ini nanti?</font>
+
+101
+00:08:55,770 --> 00:08:56,935
+<font color="yellow">Tidak bisa nanti.</font>
+
+102
+00:08:57,580 --> 00:08:59,385
+<font color="yellow">Aku sudah menunggu sangat lama.</font>
+
+103
+00:09:22,546 --> 00:09:25,362
+<font color="yellow">Sekarang aku hanya punya 2 pria lagi yang tersisa...</font>
+
+104
+00:09:26,640 --> 00:09:29,740
+<font color="yellow">Maaf! Kami agak sedikit
+terlambat untuk shift kami, ya?</font>
+
+105
+00:09:31,565 --> 00:09:33,780
+<font color="yellow">Kau bisa pergi menemui kekasihmu sekarang.</font>
+
+106
+00:09:34,040 --> 00:09:36,120
+<font color="yellow">Kekasihku?</font>
+
+107
+00:09:36,120 --> 00:09:37,980
+<font color="yellow">Pergilah!
+Pergi saja!</font>
+
+108
+00:09:38,642 --> 00:09:40,204
+<font color="yellow">Pergilah ketika kami mengizinkamu!</font>
+
+109
+00:09:51,495 --> 00:09:53,735
+<font color="yellow">Aku sudah merindukanmu sepanjang hari.</font>
+
+110
+00:09:54,445 --> 00:09:56,950
+<font color="yellow"><i>Ini Ok Taec Yeon!</i></font>
+
+111
+00:09:57,770 --> 00:10:03,465
+<font color="yellow"><font color=#FF6600>Diterjemahkan oleh</font>
+<font color=#00FFFF>@baekdpotato</font></font>
+
+112
+00:10:03,580 --> 00:10:05,375
+<font color="yellow">[Taec Yeon]</font>
+
+113
+00:10:05,728 --> 00:10:07,953
+<font color="yellow">[7 Ciuman Pertama]</font>
+
+114
+00:10:10,578 --> 00:10:12,598
+<font color="yellow"><i>Ibu, aku akan menikahi Soo Jin.</i></font>
+
+115
+00:10:12,598 --> 00:10:15,623
+<font color="yellow"><i>Dia pasti seorang malaikat!</i></font>
+
+116
+00:10:15,623 --> 00:10:18,303
+<font color="yellow"><i>Aku tidak mungkin merestui kalian!</i></font>
+
+117
+00:10:18,303 --> 00:10:20,404
+<font color="yellow"><i>Ada apa dengan kisah yang aneh ini?</i></font>
+
+118
+00:10:20,404 --> 00:10:22,689
+<font color="yellow"><i>Berapa banyak lagi yang akan kau
+ambil sampai kau mengerti dimana posisimu?</i></font>
+
+119
+00:10:22,689 --> 00:10:25,629
+<font color="yellow"><i>- Taec Yeon...
+- Sekretaris Choi, tolong siapkan konferensi pers.</i></font>
+
+120
+00:10:25,629 --> 00:10:30,300
+<font color="yellow"><i>Karena aku akan menikahinya,
+aku akan menyerahkan semua yang kumiliki.</i></font>
+
